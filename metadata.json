@@ -1,0 +1,6 @@
+{
+  "name": "Disaster Risk Assessment System",
+  "description": "CSE 7th-Semester Academic Project: Rule-based disaster risk assessment (Flood, Drought, Landslide, Forest Fire, Cyclone) with multi-level location hierarchy, interactive parameters, warnings, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

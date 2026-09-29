@@ -1,0 +1,651 @@
+Country,State,District,Taluk,Village,Date,Disaster_Type,Rainfall_mm,Temperature_C,Humidity_pct,Soil_Moisture_pct,Water_Level_m,Wind_Speed_kmh,Atmospheric_Pressure_hPa,Slope_Degree,Smoke_Level,Risk_Score,Risk_Level
+India,Karnataka,Kalaburagi,Chittapur,Alura,2025-06-15,Drought,6.2,41.5,26.0,16.5,,,,,,76.0,High Risk
+India,Karnataka,Raichur,Raichur,Yeramarus,2025-10-04,Drought,5.6,41.9,42.1,24.9,,,,,,74.7,High Risk
+India,Karnataka,Kalaburagi,Sedam,Ribbanpally,2025-09-20,Drought,5.8,40.8,37.3,22.3,,,,,,75.6,High Risk
+India,Karnataka,Raichur,Sindhanur,Alabanur,2025-06-04,Drought,19.0,37.3,25.5,19.3,,,,,,69.3,High Risk
+India,Karnataka,Kodagu,Somwarpet,Kodlipet,2025-07-20,Flood,97.7,,,77.4,3.77,,,,,64.2,High Risk
+India,Karnataka,Kalaburagi,Afzalpur,Tellur,2025-07-11,Drought,13.8,42.6,41.3,23.6,,,,,,72.0,High Risk
+India,Karnataka,Belagavi,Gokak,Koujalgi,2026-05-05,Flood,83.9,,,72.2,3.57,,,,,57.6,Moderate Risk
+India,Karnataka,Kodagu,Virajpet,Gonikoppal,2026-04-22,Forest Fire,2.8,41.5,18.7,,,47.1,,,7.8,77.7,High Risk
+India,Karnataka,Raichur,Manvi,Sirwar,2026-03-01,Drought,18.2,37.3,44.7,18.3,,,,,,66.0,High Risk
+India,Karnataka,Raichur,Raichur,Shaktinagar,2025-09-26,Flood,50.2,,,39.0,1.93,,,,,29.4,Low Risk
+India,Karnataka,Kalaburagi,Sedam,Yanagundi,2025-11-09,Cyclone,39.8,29.5,,,,16.4,1009.5,,,9.6,Low Risk
+India,Karnataka,Kalaburagi,Kalaburagi,Farhatabad,2026-03-27,Drought,10.7,40.7,44.9,18.0,,,,,,73.2,High Risk
+India,Karnataka,Kalaburagi,Kalaburagi,Sirnoor,2025-07-27,Drought,3.8,37.3,34.1,25.0,,,,,,72.7,High Risk
+India,Karnataka,Uttara Kannada,Sirsi,Dasanakoppa,2026-02-26,Landslide,103.9,,,88.3,,,,56.4,,83.7,Very High Risk
+India,Karnataka,Kalaburagi,Aland,Khajuri,2025-07-28,Landslide,18.2,,,25.5,,,,3.0,,13.9,Low Risk
+India,Karnataka,Udupi,Udupi,Brahmavar,2026-04-17,Cyclone,138.7,27.9,,,,79.9,984.2,,,56.5,Moderate Risk
+India,Karnataka,Kodagu,Madikeri,Galibeedu,2025-06-10,Flood,71.7,,,97.6,3.84,,,,,60.9,High Risk
+India,Karnataka,Udupi,Kundapura,Gangolli,2025-07-14,Cyclone,168.2,30.2,,,,101.6,989.5,,,66.2,High Risk
+India,Karnataka,Kalaburagi,Kalaburagi,Nandikur,2025-08-24,Cyclone,19.0,26.5,,,,18.0,1012.9,,,3.4,Low Risk
+India,Karnataka,Belagavi,Athani,Shedbal,2026-05-10,Forest Fire,30.7,31.8,58.1,,,9.9,,,1.2,18.1,Low Risk
+India,Karnataka,Udupi,Karkala,Belman,2026-03-29,Flood,83.1,,,87.7,2.76,,,,,54.8,Moderate Risk
+India,Karnataka,Kodagu,Virajpet,Gonikoppal,2025-07-07,Landslide,128.8,,,81.7,,,,43.6,,78.7,High Risk
+India,Karnataka,Belagavi,Gokak,Mamadapur,2025-12-26,Flood,80.0,,,82.1,2.86,,,,,53.4,Moderate Risk
+India,Karnataka,Uttara Kannada,Kumta,Aghanashini,2026-05-11,Cyclone,94.8,31.4,,,,97.7,984.4,,,62.7,High Risk
+India,Karnataka,Kalaburagi,Aland,Narona,2025-08-11,Drought,10.5,38.2,42.9,15.5,,,,,,72.3,High Risk
+India,Karnataka,Chikkamagaluru,Chikkamagaluru,Aldur,2025-07-18,Forest Fire,1.3,42.3,34.5,,,41.0,,,5.9,66.7,High Risk
+India,Karnataka,Uttara Kannada,Sirsi,Banavasi,2025-12-17,Forest Fire,3.6,36.4,33.0,,,39.0,,,8.8,65.5,High Risk
+India,Karnataka,Belagavi,Athani,Ainapur,2025-09-20,Drought,107.5,29.2,76.2,56.7,,,,,,5.6,Low Risk
+India,Karnataka,Kalaburagi,Afzalpur,Gobbur,2025-06-30,Drought,24.0,36.6,34.1,14.1,,,,,,66.4,High Risk
+India,Karnataka,Raichur,Manvi,Pothnal,2026-03-24,Drought,14.9,41.0,33.8,19.2,,,,,,73.3,High Risk
+India,Karnataka,Chikkamagaluru,Koppa,Megunda,2026-05-09,Drought,87.3,26.1,73.5,50.8,,,,,,4.9,Low Risk
+India,Karnataka,Udupi,Kundapura,Basrur,2025-06-05,Cyclone,169.7,27.4,,,,87.9,995.0,,,54.9,Moderate Risk
+India,Karnataka,Kodagu,Somwarpet,Kodlipet,2025-07-06,Flood,152.3,,,74.4,3.87,,,,,80.0,High Risk
+India,Karnataka,Belagavi,Athani,Ugar Khurd,2026-05-08,Flood,145.8,,,88.6,3.61,,,,,79.7,High Risk
+India,Karnataka,Kalaburagi,Kalaburagi,Farhatabad,2026-03-11,Drought,3.9,38.3,27.3,14.6,,,,,,79.4,High Risk
+India,Karnataka,Raichur,Manvi,Kurdi,2025-06-27,Drought,2.3,39.4,18.1,16.1,,,,,,82.7,Very High Risk
+India,Karnataka,Kalaburagi,Kalaburagi,Farhatabad,2026-03-10,Drought,17.6,40.5,43.5,12.5,,,,,,72.2,High Risk
+India,Karnataka,Raichur,Sindhanur,Turvihal,2026-03-26,Drought,13.8,39.4,27.8,10.9,,,,,,77.0,High Risk
+India,Karnataka,Kalaburagi,Afzalpur,Udachan,2026-05-08,Drought,2.6,42.2,29.0,29.5,,,,,,77.4,High Risk
+India,Karnataka,Belagavi,Chikkodi,Sadalga,2025-08-23,Drought,108.1,31.3,50.9,70.3,,,,,,10.4,Low Risk
+India,Karnataka,Udupi,Karkala,Ajekar,2025-10-15,Drought,42.7,30.3,51.4,50.3,,,,,,32.0,Moderate Risk
+India,Karnataka,Chikkamagaluru,Mudigere,Kalasa,2025-11-27,Flood,21.8,,,33.0,1.91,,,,,19.5,Low Risk
+India,Karnataka,Kalaburagi,Chittapur,Wadi,2025-07-06,Forest Fire,35.7,34.7,53.4,,,14.4,,,3.4,27.8,Low Risk
+India,Karnataka,Belagavi,Athani,Ugar Khurd,2025-10-12,Flood,78.7,,,77.4,6.06,,,,,74.1,High Risk
+India,Karnataka,Kalaburagi,Aland,Madan Hipparga,2026-01-10,Drought,15.2,40.1,33.6,18.5,,,,,,72.6,High Risk
+India,Karnataka,Udupi,Udupi,Malpe,2026-02-22,Flood,157.2,,,90.1,4.49,,,,,87.5,Very High Risk
+India,Karnataka,Raichur,Manvi,Pothnal,2026-05-07,Drought,23.0,41.0,21.4,24.6,,,,,,69.7,High Risk
+India,Karnataka,Udupi,Kundapura,Shankaranarayana,2025-12-24,Landslide,36.4,,,39.4,,,,5.9,,21.8,Low Risk
+India,Karnataka,Uttara Kannada,Sirsi,Hulekal,2025-12-25,Landslide,132.1,,,75.0,,,,38.0,,73.7,High Risk
+India,Karnataka,Belagavi,Gokak,Arbhavi,2026-05-12,Flood,82.4,,,95.2,4.25,,,,,66.5,High Risk
+India,Karnataka,Kodagu,Madikeri,Galibeedu,2025-07-18,Flood,145.9,,,88.8,5.28,,,,,91.5,Very High Risk
+India,Karnataka,Kodagu,Virajpet,Ponnampet,2025-10-04,Landslide,173.5,,,89.7,,,,51.5,,90.6,Very High Risk
+India,Karnataka,Raichur,Raichur,Shaktinagar,2026-02-09,Forest Fire,37.5,29.6,49.4,,,22.3,,,3.1,25.7,Low Risk
+India,Karnataka,Kalaburagi,Aland,Madan Hipparga,2025-06-26,Drought,13.9,43.3,21.6,12.7,,,,,,81.4,Very High Risk
+India,Karnataka,Chikkamagaluru,Chikkamagaluru,Avathi,2026-04-10,Forest Fire,3.4,41.3,35.5,,,54.9,,,6.8,70.7,High Risk
+India,Karnataka,Kodagu,Madikeri,Bhagamandala,2026-04-23,Landslide,106.3,,,93.7,,,,43.6,,74.8,High Risk
+India,Karnataka,Chikkamagaluru,Chikkamagaluru,Aldur,2025-10-18,Drought,56.9,32.0,55.3,38.2,,,,,,30.8,Moderate Risk
+India,Karnataka,Uttara Kannada,Sirsi,Hulekal,2025-12-30,Flood,27.4,,,39.6,1.56,,,,,20.1,Low Risk
+India,Karnataka,Kodagu,Somwarpet,Suntikoppa,2026-03-22,Landslide,116.1,,,75.1,,,,39.8,,74.1,High Risk
+India,Karnataka,Uttara Kannada,Kumta,Mirjan,2026-01-10,Flood,31.7,,,48.4,1.34,,,,,21.6,Low Risk
+India,Karnataka,Uttara Kannada,Sirsi,Hulekal,2026-04-15,Drought,72.7,32.2,73.2,58.7,,,,,,11.4,Low Risk
+India,Karnataka,Kalaburagi,Sedam,Ribbanpally,2025-09-02,Drought,1.3,39.0,26.8,14.7,,,,,,81.5,Very High Risk
+India,Karnataka,Uttara Kannada,Sirsi,Bisalkoppa,2025-10-08,Forest Fire,6.0,41.5,25.8,,,26.7,,,8.8,69.5,High Risk
+India,Karnataka,Kodagu,Virajpet,Gonikoppal,2025-06-16,Flood,159.7,,,70.6,3.24,,,,,74.8,High Risk
+India,Karnataka,Kalaburagi,Kalaburagi,Nandikur,2026-03-16,Drought,23.7,39.7,28.0,15.6,,,,,,70.3,High Risk
+India,Karnataka,Belagavi,Chikkodi,Nipani,2025-11-07,Drought,38.6,24.2,73.7,47.5,,,,,,25.9,Low Risk
+India,Karnataka,Uttara Kannada,Sirsi,Dasanakoppa,2025-07-09,Drought,77.4,31.5,74.4,44.7,,,,,,14.2,Low Risk
+India,Karnataka,Udupi,Kundapura,Byndoor,2025-06-22,Cyclone,119.6,30.0,,,,82.4,977.9,,,61.6,High Risk
+India,Karnataka,Udupi,Karkala,Belman,2025-07-25,Forest Fire,45.7,29.9,55.9,,,15.4,,,1.0,17.0,Low Risk
+India,Karnataka,Kodagu,Madikeri,Napoklu,2026-01-25,Flood,105.7,,,77.5,5.2,,,,,76.6,High Risk
+India,Karnataka,Kodagu,Virajpet,Gonikoppal,2025-10-03,Forest Fire,5.3,40.8,28.1,,,36.1,,,7.0,67.3,High Risk
+India,Karnataka,Udupi,Karkala,Hebri,2025-10-11,Landslide,20.3,,,50.8,,,,13.5,,24.4,Low Risk
+India,Karnataka,Kalaburagi,Chittapur,Wadi,2026-02-06,Forest Fire,29.0,31.0,52.2,,,19.4,,,1.8,24.3,Low Risk
+India,Karnataka,Kalaburagi,Chittapur,Alura,2026-05-21,Forest Fire,24.8,28.2,64.9,,,16.9,,,1.5,17.9,Low Risk
+India,Karnataka,Belagavi,Athani,Ugar Khurd,2025-10-17,Drought,54.5,26.1,61.0,63.9,,,,,,15.8,Low Risk
+India,Karnataka,Belagavi,Athani,Shedbal,2025-10-20,Drought,88.0,32.8,59.9,56.0,,,,,,11.6,Low Risk
+India,Karnataka,Kalaburagi,Aland,Narona,2025-08-31,Drought,7.6,41.7,19.2,12.8,,,,,,83.5,Very High Risk
+India,Karnataka,Kalaburagi,Afzalpur,Udachan,2026-04-23,Drought,21.7,39.9,33.5,29.2,,,,,,64.7,High Risk
+India,Karnataka,Chikkamagaluru,Mudigere,Banakal,2025-06-27,Landslide,104.0,,,95.7,,,,33.2,,67.0,High Risk
+India,Karnataka,Chikkamagaluru,Mudigere,Kottigehara,2025-08-17,Landslide,94.2,,,88.5,,,,38.5,,73.7,High Risk
+India,Karnataka,Kalaburagi,Aland,Madan Hipparga,2026-02-23,Drought,9.5,43.3,33.9,16.5,,,,,,79.4,High Risk
+India,Karnataka,Uttara Kannada,Kumta,Hiregutti,2026-04-09,Cyclone,151.0,30.8,,,,113.0,968.0,,,84.2,Very High Risk
+India,Karnataka,Udupi,Udupi,Malpe,2026-03-10,Cyclone,126.0,30.6,,,,68.8,965.1,,,65.3,High Risk
+India,Karnataka,Udupi,Kundapura,Byndoor,2026-05-26,Flood,150.3,,,76.5,2.76,,,,,72.6,High Risk
+India,Karnataka,Udupi,Udupi,Brahmavar,2026-04-28,Cyclone,101.4,27.4,,,,72.4,973.0,,,57.3,Moderate Risk
+India,Karnataka,Udupi,Kundapura,Shankaranarayana,2026-05-19,Flood,91.9,,,77.6,3.99,,,,,64.0,High Risk
+India,Karnataka,Belagavi,Athani,Ainapur,2026-01-08,Flood,137.1,,,70.7,4.73,,,,,81.4,Very High Risk
+India,Karnataka,Kodagu,Virajpet,Gonikoppal,2026-03-23,Landslide,83.8,,,93.2,,,,43.2,,73.2,High Risk
+India,Karnataka,Udupi,Udupi,Brahmavar,2026-04-22,Forest Fire,28.8,33.3,74.1,,,14.5,,,1.5,21.5,Low Risk
+India,Karnataka,Kalaburagi,Aland,Narona,2025-10-26,Drought,16.6,39.2,19.0,26.7,,,,,,70.7,High Risk
+India,Karnataka,Kalaburagi,Sedam,Mudhol,2025-12-24,Drought,21.6,42.6,41.5,10.0,,,,,,73.7,High Risk
+India,Karnataka,Chikkamagaluru,Chikkamagaluru,Ambale,2026-04-15,Landslide,151.9,,,90.0,,,,51.3,,87.4,Very High Risk
+India,Karnataka,Belagavi,Athani,Shedbal,2026-05-24,Forest Fire,35.2,30.4,45.9,,,20.8,,,2.6,26.6,Low Risk
+India,Karnataka,Udupi,Kundapura,Byndoor,2025-09-24,Cyclone,126.9,27.7,,,,114.6,992.4,,,64.5,High Risk
+India,Karnataka,Kalaburagi,Kalaburagi,Sirnoor,2026-02-16,Landslide,36.7,,,34.5,,,,10.2,,22.8,Low Risk
+India,Karnataka,Chikkamagaluru,Chikkamagaluru,Vastare,2025-07-06,Forest Fire,3.3,36.5,33.2,,,55.8,,,7.0,67.2,High Risk
+India,Karnataka,Kalaburagi,Chittapur,Ravoor,2026-03-24,Cyclone,6.7,28.8,,,,40.0,1009.4,,,12.7,Low Risk
+India,Karnataka,Uttara Kannada,Karwar,Chittakula,2026-01-20,Flood,56.3,,,59.3,2.02,,,,,35.9,Moderate Risk
+India,Karnataka,Kodagu,Virajpet,Balele,2025-06-23,Forest Fire,7.3,36.9,25.9,,,37.6,,,9.0,67.9,High Risk
+India,Karnataka,Raichur,Raichur,Shaktinagar,2025-08-04,Drought,12.6,40.7,41.6,29.1,,,,,,68.4,High Risk
+India,Karnataka,Chikkamagaluru,Chikkamagaluru,Aldur,2025-06-08,Landslide,148.6,,,84.8,,,,48.3,,83.4,Very High Risk
+India,Karnataka,Chikkamagaluru,Mudigere,Balur,2026-04-29,Flood,9.4,,,48.6,1.26,,,,,14.4,Low Risk
+India,Karnataka,Belagavi,Athani,Ainapur,2026-03-05,Forest Fire,35.2,26.3,47.1,,,22.7,,,3.5,24.0,Low Risk
+India,Karnataka,Kalaburagi,Sedam,Ribbanpally,2026-01-14,Flood,14.2,,,26.0,1.22,,,,,11.0,Low Risk
+India,Karnataka,Udupi,Karkala,Belman,2026-01-07,Landslide,11.6,,,38.6,,,,11.5,,21.0,Low Risk
+India,Karnataka,Kodagu,Madikeri,Sampaje,2026-04-14,Flood,131.7,,,86.3,4.34,,,,,80.1,Very High Risk
+India,Karnataka,Kodagu,Virajpet,Balele,2025-10-09,Forest Fire,3.7,40.0,35.7,,,34.5,,,7.2,63.6,High Risk
+India,Karnataka,Kalaburagi,Sedam,Ribbanpally,2025-11-01,Cyclone,11.3,30.9,,,,29.2,1008.8,,,10.4,Low Risk
+India,Karnataka,Kodagu,Somwarpet,Suntikoppa,2025-09-30,Flood,100.0,,,78.3,3.83,,,,,65.5,High Risk
+India,Karnataka,Raichur,Sindhanur,Salgunda,2025-10-19,Drought,0.2,42.9,44.3,27.1,,,,,,77.0,High Risk
+India,Karnataka,Belagavi,Chikkodi,Borgaon,2025-09-26,Landslide,32.3,,,32.3,,,,12.5,,23.6,Low Risk
+India,Karnataka,Raichur,Manvi,Pothnal,2025-11-06,Drought,19.7,36.3,21.5,18.0,,,,,,69.3,High Risk
+India,Karnataka,Udupi,Kundapura,Shankaranarayana,2025-09-11,Drought,40.6,28.9,68.6,73.9,,,,,,23.9,Low Risk
+India,Karnataka,Udupi,Udupi,Brahmavar,2025-10-30,Flood,138.4,,,73.2,3.75,,,,,75.4,High Risk
+India,Karnataka,Kalaburagi,Sedam,Yanagundi,2026-05-13,Drought,18.1,43.8,39.7,31.3,,,,,,68.2,High Risk
+India,Karnataka,Uttara Kannada,Karwar,Binaga,2025-10-14,Flood,34.5,,,48.5,1.44,,,,,23.1,Low Risk
+India,Karnataka,Raichur,Manvi,Kurdi,2025-07-26,Drought,16.9,39.8,43.5,23.6,,,,,,67.2,High Risk
+India,Karnataka,Udupi,Karkala,Hebri,2026-05-25,Landslide,18.6,,,34.3,,,,5.1,,17.9,Low Risk
+India,Karnataka,Udupi,Kundapura,Basrur,2026-03-03,Cyclone,143.6,31.5,,,,71.8,978.6,,,59.7,Moderate Risk
+India,Karnataka,Belagavi,Athani,Ainapur,2025-12-30,Flood,128.8,,,87.2,5.58,,,,,88.1,Very High Risk
+India,Karnataka,Udupi,Udupi,Malpe,2026-01-14,Drought,65.6,26.1,84.3,49.5,,,,,,12.7,Low Risk
+India,Karnataka,Uttara Kannada,Karwar,Chittakula,2025-09-06,Flood,58.3,,,53.8,2.13,,,,,36.2,Moderate Risk
+India,Karnataka,Kalaburagi,Sedam,Yanagundi,2025-06-26,Drought,19.7,37.9,33.2,12.8,,,,,,70.6,High Risk
+India,Karnataka,Kalaburagi,Sedam,Yanagundi,2025-11-16,Drought,19.4,42.3,25.5,23.1,,,,,,72.5,High Risk
+India,Karnataka,Kalaburagi,Kalaburagi,Nandikur,2025-07-27,Drought,16.5,36.2,39.3,10.3,,,,,,70.2,High Risk
+India,Karnataka,Kodagu,Virajpet,Kutta,2025-06-27,Forest Fire,0.9,35.1,24.7,,,27.1,,,6.8,60.6,High Risk
+India,Karnataka,Uttara Kannada,Karwar,Binaga,2026-04-11,Cyclone,159.4,30.1,,,,67.2,988.5,,,51.6,Moderate Risk
+India,Karnataka,Chikkamagaluru,Chikkamagaluru,Aldur,2025-12-23,Landslide,120.5,,,77.6,,,,49.9,,79.8,High Risk
+India,Karnataka,Kalaburagi,Sedam,Mudhol,2025-08-04,Drought,6.9,41.1,26.8,22.1,,,,,,77.7,High Risk
+India,Karnataka,Belagavi,Chikkodi,Examba,2025-07-21,Flood,143.3,,,88.3,2.92,,,,,74.1,High Risk
+India,Karnataka,Belagavi,Athani,Shedbal,2025-12-29,Flood,95.6,,,81.6,4.18,,,,,67.3,High Risk
+India,Karnataka,Kalaburagi,Aland,Khajuri,2025-12-09,Drought,23.8,41.5,20.5,20.4,,,,,,71.7,High Risk
+India,Karnataka,Kalaburagi,Sedam,Kodla,2025-08-06,Drought,13.9,40.7,26.9,22.4,,,,,,73.7,High Risk
+India,Karnataka,Kalaburagi,Aland,Madan Hipparga,2025-06-27,Drought,24.2,40.8,33.6,17.7,,,,,,69.1,High Risk
+India,Karnataka,Kodagu,Somwarpet,Kushalnagar,2025-07-26,Drought,58.0,29.0,59.7,39.6,,,,,,25.7,Low Risk
+India,Karnataka,Kodagu,Virajpet,Balele,2026-04-11,Cyclone,27.4,29.6,,,,30.2,1010.0,,,10.5,Low Risk
+India,Karnataka,Raichur,Sindhanur,Salgunda,2026-05-26,Drought,19.1,43.4,22.9,17.7,,,,,,76.6,High Risk
+India,Karnataka,Kalaburagi,Kalaburagi,Sirnoor,2025-07-17,Drought,18.7,37.7,27.2,19.2,,,,,,69.5,High Risk
+India,Karnataka,Uttara Kannada,Karwar,Chittakula,2026-04-02,Cyclone,102.6,30.7,,,,69.2,966.6,,,62.6,High Risk
+India,Karnataka,Raichur,Manvi,Sirwar,2026-02-04,Drought,15.2,39.3,31.8,14.7,,,,,,73.8,High Risk
+India,Karnataka,Uttara Kannada,Karwar,Arga,2026-02-25,Flood,41.7,,,38.8,0.86,,,,,20.3,Low Risk
+India,Karnataka,Belagavi,Chikkodi,Nipani,2025-09-17,Flood,140.6,,,78.1,5.33,,,,,88.1,Very High Risk
+India,Karnataka,Kalaburagi,Aland,Nimbal,2025-08-29,Drought,3.2,40.3,33.1,15.1,,,,,,80.3,Very High Risk
+India,Karnataka,Raichur,Manvi,Kurdi,2026-01-10,Drought,0.5,43.4,33.5,29.0,,,,,,78.9,High Risk
+India,Karnataka,Belagavi,Gokak,Mamadapur,2025-10-27,Forest Fire,23.0,27.0,45.6,,,20.8,,,2.4,26.1,Low Risk
+India,Karnataka,Raichur,Sindhanur,Salgunda,2025-10-03,Drought,10.9,39.2,41.5,11.7,,,,,,75.0,High Risk
+India,Karnataka,Udupi,Karkala,Hebri,2025-07-10,Flood,113.6,,,84.3,2.92,,,,,64.4,High Risk
+India,Karnataka,Uttara Kannada,Karwar,Chittakula,2025-09-29,Drought,38.2,26.3,55.4,41.9,,,,,,32.9,Moderate Risk
+India,Karnataka,Raichur,Raichur,Yeramarus,2026-01-24,Drought,18.9,42.1,43.0,19.9,,,,,,70.1,High Risk
+India,Karnataka,Belagavi,Gokak,Arbhavi,2025-08-17,Landslide,24.8,,,36.4,,,,12.5,,23.6,Low Risk
+India,Karnataka,Belagavi,Gokak,Ghataprabha,2025-11-06,Flood,108.5,,,80.3,2.64,,,,,60.1,High Risk
+India,Karnataka,Udupi,Kundapura,Byndoor,2026-04-11,Cyclone,136.4,32.7,,,,94.7,976.5,,,71.0,High Risk
+India,Karnataka,Kalaburagi,Afzalpur,Tellur,2026-04-30,Cyclone,22.6,31.7,,,,15.6,1010.4,,,9.1,Low Risk
+India,Karnataka,Chikkamagaluru,Chikkamagaluru,Aldur,2026-06-01,Landslide,88.0,,,90.5,,,,31.1,,66.1,High Risk
+India,Karnataka,Chikkamagaluru,Chikkamagaluru,Vastare,2025-12-16,Landslide,118.8,,,83.1,,,,46.7,,80.9,Very High Risk
+India,Karnataka,Raichur,Raichur,Yapaladinni,2026-03-13,Drought,17.0,38.3,35.7,25.9,,,,,,66.4,High Risk
+India,Karnataka,Belagavi,Chikkodi,Sadalga,2025-11-27,Flood,92.6,,,88.5,4.93,,,,,73.0,High Risk
+India,Karnataka,Kalaburagi,Kalaburagi,Kusnoor,2026-04-26,Drought,19.8,42.5,40.4,24.7,,,,,,68.7,High Risk
+India,Karnataka,Raichur,Manvi,Sirwar,2026-02-16,Drought,9.0,38.9,23.8,14.0,,,,,,78.5,High Risk
+India,Karnataka,Chikkamagaluru,Mudigere,Kalasa,2025-08-19,Landslide,87.3,,,95.3,,,,32.8,,68.5,High Risk
+India,Karnataka,Chikkamagaluru,Koppa,Hariharapura,2025-08-07,Cyclone,8.1,29.8,,,,27.9,1006.4,,,10.4,Low Risk
+India,Karnataka,Belagavi,Chikkodi,Sadalga,2025-12-28,Flood,98.3,,,97.1,5.16,,,,,78.0,High Risk
+India,Karnataka,Belagavi,Chikkodi,Examba,2025-09-28,Forest Fire,42.3,30.8,54.3,,,15.5,,,3.0,22.7,Low Risk
+India,Karnataka,Uttara Kannada,Karwar,Arga,2025-12-13,Flood,32.7,,,30.7,1.39,,,,,18.7,Low Risk
+India,Karnataka,Kodagu,Somwarpet,Kushalnagar,2026-04-25,Flood,110.5,,,96.2,3.87,,,,,72.5,High Risk
+India,Karnataka,Raichur,Sindhanur,Gorebal,2025-10-18,Drought,11.2,40.1,20.5,28.3,,,,,,73.3,High Risk
+India,Karnataka,Kodagu,Virajpet,Balele,2025-12-30,Flood,65.6,,,76.6,4.36,,,,,58.5,Moderate Risk
+India,Karnataka,Kalaburagi,Sedam,Mudhol,2025-07-21,Drought,21.0,41.2,21.7,27.4,,,,,,69.6,High Risk
+India,Karnataka,Udupi,Kundapura,Basrur,2026-05-28,Drought,67.5,29.5,50.7,71.2,,,,,,14.9,Low Risk
+India,Karnataka,Kodagu,Somwarpet,Kushalnagar,2025-07-27,Flood,141.5,,,73.4,3.38,,,,,73.8,High Risk
+India,Karnataka,Kodagu,Virajpet,Balele,2025-07-03,Forest Fire,4.8,35.0,35.8,,,25.5,,,7.1,54.9,Moderate Risk
+India,Karnataka,Kodagu,Virajpet,Ponnampet,2026-04-11,Landslide,113.5,,,88.7,,,,35.2,,72.8,High Risk
+India,Karnataka,Chikkamagaluru,Koppa,Megunda,2025-12-17,Landslide,163.0,,,76.0,,,,40.8,,80.6,Very High Risk
+India,Karnataka,Kalaburagi,Chittapur,Ravoor,2025-10-02,Landslide,38.0,,,42.0,,,,14.6,,28.3,Low Risk
+India,Karnataka,Udupi,Karkala,Hebri,2026-04-26,Landslide,12.9,,,47.3,,,,10.0,,21.5,Low Risk
+India,Karnataka,Raichur,Raichur,Shaktinagar,2026-01-21,Flood,7.0,,,52.7,1.08,,,,,13.2,Low Risk
+India,Karnataka,Kalaburagi,Afzalpur,Udachan,2025-12-21,Cyclone,11.4,30.3,,,,39.7,1009.9,,,13.7,Low Risk
+India,Karnataka,Kodagu,Somwarpet,Kodlipet,2026-05-02,Landslide,111.5,,,78.0,,,,40.3,,75.2,High Risk
+India,Karnataka,Chikkamagaluru,Chikkamagaluru,Ambale,2026-02-10,Forest Fire,6.4,40.2,23.4,,,33.8,,,5.3,64.2,High Risk
+India,Karnataka,Uttara Kannada,Kumta,Gokarna,2026-03-07,Cyclone,116.2,28.8,,,,79.7,968.1,,,65.8,High Risk
+India,Karnataka,Chikkamagaluru,Chikkamagaluru,Ambale,2025-11-27,Landslide,122.5,,,92.4,,,,55.5,,87.5,Very High Risk
+India,Karnataka,Uttara Kannada,Kumta,Hiregutti,2025-07-09,Cyclone,131.0,31.5,,,,98.6,977.2,,,70.9,High Risk
+India,Karnataka,Kodagu,Madikeri,Galibeedu,2025-06-18,Flood,73.3,,,88.1,3.37,,,,,56.2,Moderate Risk
+India,Karnataka,Uttara Kannada,Karwar,Arga,2026-04-06,Flood,13.4,,,38.0,1.43,,,,,14.6,Low Risk
+India,Karnataka,Chikkamagaluru,Chikkamagaluru,Aldur,2025-12-21,Landslide,109.9,,,81.7,,,,56.9,,78.8,High Risk
+India,Karnataka,Kodagu,Madikeri,Bhagamandala,2025-10-13,Landslide,153.6,,,91.9,,,,36.0,,81.2,Very High Risk
+India,Karnataka,Raichur,Sindhanur,Alabanur,2025-07-08,Drought,11.3,43.2,20.4,19.8,,,,,,79.9,High Risk
+India,Karnataka,Raichur,Manvi,Kurdi,2026-03-09,Flood,34.8,,,54.8,2.05,,,,,28.7,Low Risk
+India,Karnataka,Raichur,Sindhanur,Turvihal,2025-09-23,Cyclone,6.2,30.5,,,,13.6,1006.8,,,9.3,Low Risk
+India,Karnataka,Kalaburagi,Chittapur,Ravoor,2026-01-26,Forest Fire,34.5,33.2,61.5,,,9.4,,,1.4,18.0,Low Risk
+India,Karnataka,Raichur,Sindhanur,Alabanur,2026-03-22,Drought,1.8,43.8,30.1,24.1,,,,,,81.4,Very High Risk
+India,Karnataka,Raichur,Manvi,Kurdi,2025-08-06,Drought,10.8,43.3,21.4,11.2,,,,,,83.6,Very High Risk
+India,Karnataka,Kalaburagi,Kalaburagi,Farhatabad,2026-05-30,Drought,5.6,43.6,25.7,21.4,,,,,,81.4,Very High Risk
+India,Karnataka,Kalaburagi,Sedam,Mudhol,2025-08-04,Drought,15.6,40.9,35.3,12.1,,,,,,75.5,High Risk
+India,Karnataka,Belagavi,Gokak,Koujalgi,2026-03-16,Flood,64.3,,,72.3,5.7,,,,,66.7,High Risk
+India,Karnataka,Raichur,Raichur,Yapaladinni,2025-12-31,Cyclone,40.0,28.8,,,,28.5,1005.3,,,13.3,Low Risk
+India,Karnataka,Raichur,Raichur,Yapaladinni,2025-10-31,Drought,11.3,41.5,29.2,13.5,,,,,,79.0,High Risk
+India,Karnataka,Chikkamagaluru,Chikkamagaluru,Vastare,2025-11-08,Forest Fire,7.9,41.8,22.3,,,36.4,,,6.6,69.4,High Risk
+India,Karnataka,Uttara Kannada,Karwar,Binaga,2025-08-02,Flood,19.7,,,28.4,1.15,,,,,12.6,Low Risk
+India,Karnataka,Udupi,Kundapura,Basrur,2025-10-06,Forest Fire,42.5,34.7,72.1,,,22.9,,,2.7,26.3,Low Risk
+India,Karnataka,Kodagu,Somwarpet,Kushalnagar,2026-02-11,Flood,152.3,,,72.5,4.34,,,,,82.9,Very High Risk
+India,Karnataka,Uttara Kannada,Sirsi,Dasanakoppa,2026-03-26,Drought,58.2,24.5,80.9,54.8,,,,,,13.1,Low Risk
+India,Karnataka,Raichur,Raichur,Gillesugur,2025-07-26,Drought,10.8,43.1,38.6,26.0,,,,,,73.6,High Risk
+India,Karnataka,Uttara Kannada,Karwar,Binaga,2025-12-03,Cyclone,130.3,31.6,,,,92.7,967.2,,,75.0,High Risk
+India,Karnataka,Udupi,Udupi,Malpe,2025-12-19,Cyclone,134.6,29.2,,,,83.7,994.6,,,51.8,Moderate Risk
+India,Karnataka,Kalaburagi,Kalaburagi,Nandikur,2026-02-12,Drought,1.0,36.3,39.7,25.7,,,,,,71.6,High Risk
+India,Karnataka,Chikkamagaluru,Koppa,Bhandigadi,2025-11-15,Landslide,168.5,,,82.6,,,,41.0,,83.7,Very High Risk
+India,Karnataka,Udupi,Kundapura,Shankaranarayana,2026-05-29,Flood,119.1,,,70.5,4.26,,,,,72.6,High Risk
+India,Karnataka,Udupi,Karkala,Belman,2025-11-05,Cyclone,145.0,27.2,,,,104.8,986.8,,,65.3,High Risk
+India,Karnataka,Chikkamagaluru,Mudigere,Balur,2026-03-23,Cyclone,21.6,28.7,,,,16.8,1005.5,,,10.1,Low Risk
+India,Karnataka,Belagavi,Chikkodi,Borgaon,2025-06-17,Flood,120.1,,,75.3,5.09,,,,,79.7,High Risk
+India,Karnataka,Chikkamagaluru,Chikkamagaluru,Avathi,2026-05-20,Landslide,99.4,,,87.0,,,,47.1,,76.1,High Risk
+India,Karnataka,Kalaburagi,Afzalpur,Karajagi,2026-05-06,Drought,12.0,39.0,30.4,31.0,,,,,,68.6,High Risk
+India,Karnataka,Belagavi,Athani,Ugar Khurd,2026-04-09,Drought,68.7,32.6,60.4,46.2,,,,,,21.1,Low Risk
+India,Karnataka,Udupi,Kundapura,Shankaranarayana,2025-11-10,Forest Fire,47.4,30.3,61.8,,,19.5,,,1.4,17.8,Low Risk
+India,Karnataka,Belagavi,Gokak,Mamadapur,2025-11-24,Forest Fire,21.6,34.6,69.1,,,12.6,,,2.6,26.6,Low Risk
+India,Karnataka,Uttara Kannada,Karwar,Arga,2025-09-18,Forest Fire,7.5,35.8,27.4,,,48.0,,,5.5,62.2,High Risk
+India,Karnataka,Belagavi,Chikkodi,Sadalga,2026-04-23,Flood,84.4,,,79.2,2.87,,,,,54.2,Moderate Risk
+India,Karnataka,Chikkamagaluru,Mudigere,Kottigehara,2025-06-03,Drought,107.2,32.8,72.9,41.3,,,,,,15.6,Low Risk
+India,Karnataka,Chikkamagaluru,Mudigere,Banakal,2025-11-12,Landslide,107.1,,,76.4,,,,51.5,,79.5,High Risk
+India,Karnataka,Kodagu,Virajpet,Gonikoppal,2025-12-31,Drought,100.6,25.6,84.9,71.8,,,,,,0.6,Low Risk
+India,Karnataka,Uttara Kannada,Sirsi,Dasanakoppa,2025-06-20,Landslide,80.9,,,88.6,,,,33.0,,67.5,High Risk
+India,Karnataka,Udupi,Kundapura,Basrur,2026-02-24,Cyclone,158.1,29.8,,,,89.7,993.2,,,57.6,Moderate Risk
+India,Karnataka,Kodagu,Somwarpet,Shanivarsanthe,2026-04-28,Flood,87.0,,,90.6,3.19,,,,,59.6,Moderate Risk
+India,Karnataka,Udupi,Kundapura,Gangolli,2026-01-05,Flood,114.1,,,88.7,2.82,,,,,64.7,High Risk
+India,Karnataka,Kodagu,Madikeri,Sampaje,2025-06-04,Landslide,104.8,,,80.7,,,,51.1,,81.8,Very High Risk
+India,Karnataka,Udupi,Kundapura,Byndoor,2026-05-21,Flood,84.8,,,83.0,4.97,,,,,69.8,High Risk
+India,Karnataka,Kodagu,Madikeri,Bhagamandala,2026-05-20,Landslide,91.2,,,97.0,,,,38.3,,72.0,High Risk
+India,Karnataka,Kodagu,Virajpet,Ponnampet,2026-04-07,Forest Fire,7.3,37.4,31.1,,,50.0,,,8.2,68.5,High Risk
+India,Karnataka,Kodagu,Somwarpet,Kushalnagar,2025-07-12,Cyclone,16.3,31.4,,,,25.8,1009.8,,,9.1,Low Risk
+India,Karnataka,Kalaburagi,Aland,Nimbal,2025-09-12,Cyclone,14.8,28.6,,,,27.2,1006.3,,,9.9,Low Risk
+India,Karnataka,Kalaburagi,Aland,Narona,2025-07-17,Forest Fire,12.2,34.1,58.4,,,10.1,,,1.7,26.8,Low Risk
+India,Karnataka,Belagavi,Gokak,Ghataprabha,2025-06-12,Flood,101.6,,,90.9,5.52,,,,,80.3,Very High Risk
+India,Karnataka,Belagavi,Gokak,Ghataprabha,2026-05-25,Flood,66.7,,,96.2,6.18,,,,,74.2,High Risk
+India,Karnataka,Kalaburagi,Sedam,Ribbanpally,2025-09-01,Drought,19.2,42.1,35.4,31.5,,,,,,66.8,High Risk
+India,Karnataka,Uttara Kannada,Kumta,Hiregutti,2026-01-16,Forest Fire,3.0,41.8,35.9,,,47.5,,,7.6,70.5,High Risk
+India,Karnataka,Belagavi,Athani,Shedbal,2025-07-31,Landslide,13.0,,,38.8,,,,10.9,,20.6,Low Risk
+India,Karnataka,Kodagu,Virajpet,Gonikoppal,2026-01-24,Landslide,144.0,,,88.1,,,,44.9,,85.8,Very High Risk
+India,Karnataka,Kodagu,Virajpet,Balele,2025-09-05,Forest Fire,0.9,42.4,31.7,,,51.7,,,6.7,73.0,High Risk
+India,Karnataka,Kalaburagi,Chittapur,Wadi,2026-04-01,Drought,0.8,40.8,19.3,25.5,,,,,,80.6,Very High Risk
+India,Karnataka,Kalaburagi,Afzalpur,Tellur,2025-06-29,Drought,3.5,43.9,42.7,15.2,,,,,,81.7,Very High Risk
+India,Karnataka,Belagavi,Gokak,Arbhavi,2025-09-30,Flood,91.7,,,88.5,3.03,,,,,59.4,Moderate Risk
+India,Karnataka,Kodagu,Virajpet,Balele,2026-03-13,Landslide,170.1,,,96.1,,,,55.5,,95.3,Very High Risk
+India,Karnataka,Uttara Kannada,Kumta,Aghanashini,2026-04-26,Flood,41.9,,,36.2,1.9,,,,,26.1,Low Risk
+India,Karnataka,Uttara Kannada,Kumta,Aghanashini,2025-09-03,Flood,46.5,,,54.7,1.46,,,,,28.1,Low Risk
+India,Karnataka,Udupi,Kundapura,Gangolli,2026-03-15,Flood,103.3,,,84.8,4.04,,,,,69.2,High Risk
+India,Karnataka,Uttara Kannada,Sirsi,Hulekal,2026-04-28,Landslide,87.5,,,85.8,,,,40.4,,69.8,High Risk
+India,Karnataka,Kodagu,Somwarpet,Shanivarsanthe,2025-07-08,Landslide,97.9,,,93.3,,,,50.3,,79.7,High Risk
+India,Karnataka,Chikkamagaluru,Mudigere,Kalasa,2025-11-03,Landslide,170.9,,,75.4,,,,56.2,,93.6,Very High Risk
+India,Karnataka,Kalaburagi,Aland,Madan Hipparga,2026-05-27,Cyclone,24.8,30.4,,,,16.1,1013.2,,,6.6,Low Risk
+India,Karnataka,Uttara Kannada,Sirsi,Dasanakoppa,2025-11-05,Landslide,104.8,,,87.3,,,,43.9,,72.5,High Risk
+India,Karnataka,Chikkamagaluru,Mudigere,Balur,2025-11-08,Landslide,119.3,,,88.5,,,,36.2,,70.9,High Risk
+India,Karnataka,Udupi,Udupi,Kaup,2025-11-16,Cyclone,109.7,30.3,,,,76.5,982.1,,,55.7,Moderate Risk
+India,Karnataka,Raichur,Manvi,Kurdi,2026-04-25,Drought,18.5,39.7,27.5,26.1,,,,,,68.7,High Risk
+India,Karnataka,Kalaburagi,Kalaburagi,Sirnoor,2026-02-24,Drought,0.8,42.8,36.0,30.8,,,,,,76.9,High Risk
+India,Karnataka,Kalaburagi,Chittapur,Diggaon,2025-07-05,Drought,17.7,36.1,28.1,21.1,,,,,,67.4,High Risk
+India,Karnataka,Belagavi,Chikkodi,Borgaon,2025-06-04,Flood,115.9,,,70.5,4.02,,,,,70.0,High Risk
+India,Karnataka,Udupi,Udupi,Manipal,2025-08-31,Flood,71.2,,,74.2,2.86,,,,,49.2,Moderate Risk
+India,Karnataka,Kodagu,Somwarpet,Kodlipet,2025-12-21,Landslide,87.5,,,98.0,,,,42.9,,71.7,High Risk
+India,Karnataka,Raichur,Sindhanur,Turvihal,2026-05-01,Drought,24.8,41.2,28.9,10.7,,,,,,73.1,High Risk
+India,Karnataka,Uttara Kannada,Sirsi,Dasanakoppa,2026-05-26,Forest Fire,3.5,35.5,26.5,,,50.9,,,7.3,67.9,High Risk
+India,Karnataka,Kalaburagi,Aland,Nimbal,2025-10-17,Drought,1.2,36.6,42.3,30.4,,,,,,69.3,High Risk
+India,Karnataka,Belagavi,Gokak,Ghataprabha,2025-06-09,Flood,161.0,,,91.1,4.67,,,,,88.9,Very High Risk
+India,Karnataka,Raichur,Sindhanur,Alabanur,2025-08-23,Landslide,30.4,,,39.8,,,,15.7,,27.0,Low Risk
+India,Karnataka,Belagavi,Athani,Ugar Khurd,2026-05-19,Flood,136.0,,,97.3,4.35,,,,,83.7,Very High Risk
+India,Karnataka,Kalaburagi,Afzalpur,Gobbur,2025-11-22,Drought,15.1,40.9,44.2,23.1,,,,,,69.3,High Risk
+India,Karnataka,Udupi,Karkala,Belman,2026-02-07,Landslide,15.3,,,39.4,,,,8.6,,17.7,Low Risk
+India,Karnataka,Belagavi,Gokak,Mamadapur,2025-10-05,Flood,134.9,,,74.3,2.8,,,,,67.9,High Risk
+India,Karnataka,Raichur,Sindhanur,Turvihal,2025-12-02,Landslide,9.8,,,20.2,,,,7.6,,12.8,Low Risk
+India,Karnataka,Udupi,Udupi,Malpe,2026-01-07,Cyclone,122.6,27.2,,,,87.4,981.6,,,59.5,Moderate Risk
+India,Karnataka,Uttara Kannada,Karwar,Binaga,2025-12-15,Flood,5.7,,,52.3,1.38,,,,,14.8,Low Risk
+India,Karnataka,Belagavi,Athani,Shedbal,2026-05-17,Flood,100.0,,,78.4,3.01,,,,,59.8,Moderate Risk
+India,Karnataka,Chikkamagaluru,Mudigere,Kalasa,2025-10-20,Flood,28.2,,,27.7,1.48,,,,,17.4,Low Risk
+India,Karnataka,Udupi,Udupi,Brahmavar,2026-04-01,Forest Fire,15.4,31.6,58.7,,,8.1,,,1.7,22.5,Low Risk
+India,Karnataka,Belagavi,Chikkodi,Borgaon,2026-01-12,Landslide,20.1,,,48.5,,,,15.9,,27.9,Low Risk
+India,Karnataka,Kalaburagi,Kalaburagi,Farhatabad,2026-02-01,Drought,7.9,43.7,25.9,31.3,,,,,,76.2,High Risk
+India,Karnataka,Raichur,Sindhanur,Alabanur,2025-11-14,Drought,9.4,42.5,21.1,18.6,,,,,,80.5,Very High Risk
+India,Karnataka,Belagavi,Gokak,Koujalgi,2026-05-16,Flood,140.6,,,90.4,2.6,,,,,71.5,High Risk
+India,Karnataka,Raichur,Sindhanur,Turvihal,2026-05-21,Drought,1.7,42.8,36.2,27.5,,,,,,77.7,High Risk
+India,Karnataka,Kalaburagi,Kalaburagi,Farhatabad,2026-01-03,Drought,19.7,36.6,30.9,31.8,,,,,,61.9,High Risk
+India,Karnataka,Uttara Kannada,Sirsi,Dasanakoppa,2026-05-26,Landslide,165.1,,,87.9,,,,47.9,,85.4,Very High Risk
+India,Karnataka,Kodagu,Virajpet,Kutta,2026-03-16,Landslide,173.4,,,91.3,,,,41.2,,86.5,Very High Risk
+India,Karnataka,Uttara Kannada,Kumta,Gokarna,2025-09-22,Flood,33.1,,,45.3,1.53,,,,,22.7,Low Risk
+India,Karnataka,Belagavi,Gokak,Koujalgi,2026-01-24,Flood,141.1,,,84.0,4.68,,,,,84.9,Very High Risk
+India,Karnataka,Uttara Kannada,Karwar,Binaga,2025-12-30,Flood,55.6,,,54.1,0.92,,,,,27.5,Low Risk
+India,Karnataka,Kalaburagi,Kalaburagi,Farhatabad,2025-09-14,Drought,13.0,38.8,37.5,12.1,,,,,,74.2,High Risk
+India,Karnataka,Chikkamagaluru,Chikkamagaluru,Avathi,2026-05-30,Forest Fire,5.2,35.0,34.5,,,47.3,,,5.7,59.2,Moderate Risk
+India,Karnataka,Kodagu,Virajpet,Ponnampet,2026-03-14,Forest Fire,6.4,37.8,25.6,,,45.8,,,5.7,65.2,High Risk
+India,Karnataka,Raichur,Manvi,Harvi,2026-01-17,Drought,14.8,39.1,23.6,25.5,,,,,,71.0,High Risk
+India,Karnataka,Raichur,Sindhanur,Gorebal,2025-12-05,Drought,8.1,39.7,41.3,15.8,,,,,,75.2,High Risk
+India,Karnataka,Chikkamagaluru,Koppa,Megunda,2026-03-28,Forest Fire,3.7,35.0,23.1,,,30.7,,,7.7,63.3,High Risk
+India,Karnataka,Udupi,Kundapura,Byndoor,2025-07-31,Landslide,15.7,,,24.1,,,,8.6,,14.6,Low Risk
+India,Karnataka,Uttara Kannada,Sirsi,Dasanakoppa,2026-01-03,Landslide,97.6,,,90.3,,,,49.4,,79.0,High Risk
+India,Karnataka,Kodagu,Madikeri,Sampaje,2025-09-04,Landslide,109.9,,,85.8,,,,31.5,,67.1,High Risk
+India,Karnataka,Kalaburagi,Chittapur,Diggaon,2026-03-15,Forest Fire,37.4,30.5,59.8,,,14.7,,,3.0,19.8,Low Risk
+India,Karnataka,Chikkamagaluru,Mudigere,Kalasa,2025-09-21,Landslide,107.7,,,81.6,,,,45.1,,73.2,High Risk
+India,Karnataka,Chikkamagaluru,Chikkamagaluru,Ambale,2026-03-21,Forest Fire,6.6,35.0,32.8,,,37.1,,,8.3,61.6,High Risk
+India,Karnataka,Kalaburagi,Afzalpur,Tellur,2025-07-23,Drought,18.4,41.2,41.6,15.4,,,,,,71.7,High Risk
+India,Karnataka,Kalaburagi,Afzalpur,Tellur,2026-01-11,Drought,21.6,36.9,23.7,27.9,,,,,,64.4,High Risk
+India,Karnataka,Belagavi,Gokak,Arbhavi,2026-04-20,Cyclone,35.3,30.7,,,,22.8,1010.5,,,9.4,Low Risk
+India,Karnataka,Kalaburagi,Afzalpur,Udachan,2025-11-13,Drought,24.5,38.3,43.7,22.6,,,,,,62.3,High Risk
+India,Karnataka,Chikkamagaluru,Koppa,Hariharapura,2025-07-01,Forest Fire,1.0,42.9,34.9,,,53.6,,,6.0,71.4,High Risk
+India,Karnataka,Raichur,Sindhanur,Salgunda,2026-02-06,Forest Fire,35.1,27.3,64.0,,,14.0,,,0.7,11.5,Low Risk
+India,Karnataka,Kalaburagi,Sedam,Ribbanpally,2026-05-22,Drought,23.4,39.0,26.8,30.9,,,,,,63.7,High Risk
+India,Karnataka,Kalaburagi,Chittapur,Alura,2026-04-22,Forest Fire,12.5,32.0,55.7,,,16.6,,,1.2,26.6,Low Risk
+India,Karnataka,Uttara Kannada,Kumta,Mirjan,2025-10-24,Flood,23.6,,,44.8,1.61,,,,,20.3,Low Risk
+India,Karnataka,Chikkamagaluru,Mudigere,Balur,2025-06-24,Flood,10.5,,,41.1,1.9,,,,,17.7,Low Risk
+India,Karnataka,Kalaburagi,Aland,Narona,2026-01-06,Drought,5.1,41.5,35.5,12.9,,,,,,81.0,Very High Risk
+India,Karnataka,Kodagu,Madikeri,Napoklu,2025-10-07,Flood,68.7,,,88.2,4.96,,,,,66.0,High Risk
+India,Karnataka,Kalaburagi,Afzalpur,Tellur,2026-01-06,Drought,16.4,41.6,30.9,10.0,,,,,,77.6,High Risk
+India,Karnataka,Kalaburagi,Kalaburagi,Nandikur,2025-06-05,Drought,0.2,38.7,41.2,12.7,,,,,,79.5,High Risk
+India,Karnataka,Raichur,Sindhanur,Turvihal,2025-12-14,Drought,2.2,42.4,27.9,12.3,,,,,,85.2,Very High Risk
+India,Karnataka,Udupi,Kundapura,Gangolli,2026-04-25,Cyclone,132.4,27.1,,,,114.6,969.3,,,79.8,High Risk
+India,Karnataka,Raichur,Raichur,Shaktinagar,2026-04-18,Drought,18.7,43.4,29.9,23.6,,,,,,72.8,High Risk
+India,Karnataka,Kodagu,Somwarpet,Shanivarsanthe,2025-08-03,Drought,77.2,27.5,61.0,73.5,,,,,,5.8,Low Risk
+India,Karnataka,Kalaburagi,Kalaburagi,Nandikur,2025-10-06,Drought,13.8,40.8,39.0,23.4,,,,,,70.8,High Risk
+India,Karnataka,Raichur,Sindhanur,Gorebal,2025-09-14,Landslide,28.3,,,37.8,,,,14.2,,23.7,Low Risk
+India,Karnataka,Kalaburagi,Afzalpur,Karajagi,2025-10-02,Drought,12.5,40.8,44.4,21.6,,,,,,71.0,High Risk
+India,Karnataka,Uttara Kannada,Karwar,Chittakula,2025-12-05,Flood,35.0,,,41.5,1.04,,,,,19.1,Low Risk
+India,Karnataka,Kalaburagi,Sedam,Kodla,2025-10-13,Drought,5.4,43.4,28.7,30.9,,,,,,76.7,High Risk
+India,Karnataka,Udupi,Kundapura,Basrur,2025-07-13,Flood,127.3,,,74.3,4.49,,,,,77.5,High Risk
+India,Karnataka,Kalaburagi,Sedam,Mudhol,2025-08-19,Drought,13.4,39.1,40.5,24.0,,,,,,68.7,High Risk
+India,Karnataka,Raichur,Manvi,Sirwar,2025-10-01,Drought,1.4,36.7,30.2,19.6,,,,,,76.4,High Risk
+India,Karnataka,Belagavi,Chikkodi,Nipani,2025-08-01,Flood,61.3,,,70.3,3.01,,,,,46.5,Moderate Risk
+India,Karnataka,Chikkamagaluru,Mudigere,Balur,2025-08-25,Flood,25.5,,,55.6,1.85,,,,,24.7,Low Risk
+India,Karnataka,Kalaburagi,Aland,Nimbal,2025-10-18,Drought,13.1,38.1,34.9,31.5,,,,,,65.9,High Risk
+India,Karnataka,Chikkamagaluru,Mudigere,Banakal,2026-02-11,Landslide,161.6,,,79.0,,,,34.4,,79.8,High Risk
+India,Karnataka,Belagavi,Gokak,Ghataprabha,2025-06-23,Flood,150.2,,,71.3,2.55,,,,,70.1,High Risk
+India,Karnataka,Uttara Kannada,Karwar,Arga,2025-06-19,Drought,74.2,32.2,64.7,64.6,,,,,,11.2,Low Risk
+India,Karnataka,Udupi,Karkala,Hebri,2025-10-17,Landslide,42.2,,,40.0,,,,4.8,,22.3,Low Risk
+India,Karnataka,Kalaburagi,Afzalpur,Karajagi,2025-12-23,Drought,1.7,39.7,40.8,16.2,,,,,,78.4,High Risk
+India,Karnataka,Udupi,Karkala,Belman,2025-12-06,Flood,81.1,,,78.5,4.59,,,,,65.2,High Risk
+India,Karnataka,Belagavi,Chikkodi,Sadalga,2025-09-09,Flood,136.9,,,92.3,4.52,,,,,84.2,Very High Risk
+India,Karnataka,Kalaburagi,Kalaburagi,Kusnoor,2025-09-28,Flood,34.8,,,49.3,1.69,,,,,25.1,Low Risk
+India,Karnataka,Kalaburagi,Chittapur,Ravoor,2025-11-05,Forest Fire,19.5,26.9,60.9,,,15.9,,,0.7,16.0,Low Risk
+India,Karnataka,Kalaburagi,Kalaburagi,Farhatabad,2026-02-22,Drought,10.3,43.2,38.2,20.1,,,,,,76.5,High Risk
+India,Karnataka,Belagavi,Gokak,Ghataprabha,2025-07-09,Flood,122.1,,,88.5,2.73,,,,,66.4,High Risk
+India,Karnataka,Kalaburagi,Kalaburagi,Nandikur,2025-12-19,Drought,17.5,41.9,25.3,17.0,,,,,,75.6,High Risk
+India,Karnataka,Kalaburagi,Sedam,Yanagundi,2025-08-19,Drought,2.6,39.6,21.3,16.9,,,,,,81.7,Very High Risk
+India,Karnataka,Uttara Kannada,Karwar,Majali,2025-10-14,Flood,51.9,,,53.3,0.93,,,,,26.2,Low Risk
+India,Karnataka,Udupi,Kundapura,Byndoor,2025-08-15,Flood,69.6,,,80.0,3.42,,,,,53.8,Moderate Risk
+India,Karnataka,Chikkamagaluru,Koppa,Hariharapura,2025-08-29,Landslide,83.0,,,84.7,,,,42.7,,71.7,High Risk
+India,Karnataka,Kodagu,Virajpet,Gonikoppal,2025-08-02,Landslide,81.1,,,94.9,,,,57.5,,76.8,High Risk
+India,Karnataka,Uttara Kannada,Sirsi,Bisalkoppa,2026-03-26,Flood,37.2,,,27.6,2.08,,,,,24.2,Low Risk
+India,Karnataka,Kalaburagi,Sedam,Yanagundi,2025-08-05,Forest Fire,42.4,26.8,70.4,,,10.0,,,3.3,14.9,Low Risk
+India,Karnataka,Kalaburagi,Afzalpur,Karajagi,2025-12-20,Forest Fire,27.1,30.5,56.5,,,13.7,,,3.2,23.6,Low Risk
+India,Karnataka,Udupi,Udupi,Manipal,2025-06-18,Cyclone,141.8,30.0,,,,95.7,983.5,,,65.4,High Risk
+India,Karnataka,Belagavi,Athani,Ainapur,2025-12-14,Drought,41.0,25.8,68.4,70.4,,,,,,20.6,Low Risk
+India,Karnataka,Raichur,Raichur,Yeramarus,2026-02-01,Landslide,29.5,,,37.0,,,,16.7,,26.3,Low Risk
+India,Karnataka,Uttara Kannada,Sirsi,Bisalkoppa,2026-04-02,Landslide,100.8,,,96.5,,,,51.8,,78.4,High Risk
+India,Karnataka,Chikkamagaluru,Mudigere,Balur,2025-08-21,Drought,38.0,29.9,78.6,45.7,,,,,,31.9,Moderate Risk
+India,Karnataka,Kalaburagi,Afzalpur,Karajagi,2025-11-29,Drought,23.4,43.9,24.4,13.8,,,,,,76.2,High Risk
+India,Karnataka,Udupi,Karkala,Miyar,2026-05-27,Flood,133.6,,,85.8,6.01,,,,,92.2,Very High Risk
+India,Karnataka,Belagavi,Gokak,Koujalgi,2026-03-05,Forest Fire,13.6,28.8,59.7,,,11.7,,,1.2,19.6,Low Risk
+India,Karnataka,Chikkamagaluru,Koppa,Bhandigadi,2025-08-06,Landslide,112.4,,,79.3,,,,52.5,,83.2,Very High Risk
+India,Karnataka,Kalaburagi,Afzalpur,Gobbur,2025-07-27,Drought,21.2,42.9,28.1,31.1,,,,,,68.3,High Risk
+India,Karnataka,Raichur,Manvi,Harvi,2025-11-02,Drought,8.1,43.8,29.8,26.1,,,,,,77.5,High Risk
+India,Karnataka,Raichur,Raichur,Gillesugur,2026-05-29,Drought,24.2,41.5,39.2,30.4,,,,,,63.3,High Risk
+India,Karnataka,Kodagu,Virajpet,Ponnampet,2025-08-05,Forest Fire,5.6,35.6,15.0,,,43.9,,,8.4,72.2,High Risk
+India,Karnataka,Belagavi,Gokak,Ghataprabha,2026-04-10,Flood,83.2,,,96.2,4.59,,,,,69.3,High Risk
+India,Karnataka,Kalaburagi,Kalaburagi,Farhatabad,2025-11-25,Drought,24.6,37.3,20.4,29.5,,,,,,63.3,High Risk
+India,Karnataka,Raichur,Sindhanur,Salgunda,2025-09-16,Drought,6.2,36.5,20.9,15.6,,,,,,77.4,High Risk
+India,Karnataka,Kalaburagi,Chittapur,Alura,2025-08-25,Forest Fire,25.1,34.0,59.8,,,16.7,,,0.8,22.7,Low Risk
+India,Karnataka,Chikkamagaluru,Mudigere,Kalasa,2025-06-18,Landslide,108.0,,,82.6,,,,56.6,,79.0,High Risk
+India,Karnataka,Kodagu,Madikeri,Bhagamandala,2026-03-08,Landslide,169.5,,,98.5,,,,39.5,,88.5,Very High Risk
+India,Karnataka,Chikkamagaluru,Mudigere,Kottigehara,2026-04-07,Landslide,164.5,,,78.8,,,,32.8,,74.9,High Risk
+India,Karnataka,Kodagu,Somwarpet,Suntikoppa,2025-10-14,Cyclone,4.3,27.8,,,,29.8,1007.7,,,8.6,Low Risk
+India,Karnataka,Belagavi,Athani,Ainapur,2025-06-02,Drought,64.2,26.7,71.0,61.5,,,,,,9.6,Low Risk
+India,Karnataka,Kodagu,Somwarpet,Shanivarsanthe,2026-04-23,Landslide,107.7,,,77.0,,,,53.6,,78.6,High Risk
+India,Karnataka,Uttara Kannada,Sirsi,Dasanakoppa,2025-07-17,Landslide,141.0,,,84.3,,,,40.4,,78.5,High Risk
+India,Karnataka,Kodagu,Madikeri,Bhagamandala,2026-01-25,Flood,87.7,,,85.8,5.6,,,,,75.7,High Risk
+India,Karnataka,Kalaburagi,Kalaburagi,Kusnoor,2026-03-05,Drought,10.3,42.1,19.6,15.0,,,,,,81.5,Very High Risk
+India,Karnataka,Uttara Kannada,Sirsi,Dasanakoppa,2026-03-21,Forest Fire,0.6,41.9,26.0,,,54.8,,,7.9,78.3,High Risk
+India,Karnataka,Chikkamagaluru,Koppa,Jayapura,2025-08-28,Forest Fire,1.7,42.5,18.8,,,31.4,,,5.2,69.0,High Risk
+India,Karnataka,Kalaburagi,Sedam,Ribbanpally,2026-04-01,Drought,6.4,43.3,19.8,30.1,,,,,,78.3,High Risk
+India,Karnataka,Uttara Kannada,Sirsi,Dasanakoppa,2026-02-22,Landslide,123.5,,,96.0,,,,52.0,,86.5,Very High Risk
+India,Karnataka,Chikkamagaluru,Koppa,Bhandigadi,2025-08-15,Landslide,133.8,,,89.0,,,,57.0,,85.4,Very High Risk
+India,Karnataka,Kalaburagi,Aland,Nimbal,2025-11-24,Cyclone,29.5,29.0,,,,36.3,1007.4,,,14.5,Low Risk
+India,Karnataka,Chikkamagaluru,Mudigere,Kottigehara,2025-08-13,Flood,39.0,,,39.1,1.75,,,,,24.8,Low Risk
+India,Karnataka,Uttara Kannada,Sirsi,Bisalkoppa,2026-01-30,Flood,55.6,,,25.7,2.06,,,,,29.2,Low Risk
+India,Karnataka,Udupi,Kundapura,Shankaranarayana,2026-05-23,Flood,131.9,,,76.4,6.1,,,,,89.9,Very High Risk
+India,Karnataka,Udupi,Kundapura,Basrur,2025-10-16,Landslide,37.8,,,41.2,,,,4.3,,20.5,Low Risk
+India,Karnataka,Uttara Kannada,Kumta,Aghanashini,2025-06-29,Landslide,129.0,,,78.8,,,,38.7,,74.9,High Risk
+India,Karnataka,Kalaburagi,Kalaburagi,Kusnoor,2025-06-30,Drought,6.2,39.7,37.0,30.2,,,,,,71.1,High Risk
+India,Karnataka,Udupi,Udupi,Manipal,2025-12-21,Cyclone,92.4,29.2,,,,96.8,968.7,,,70.9,High Risk
+India,Karnataka,Belagavi,Chikkodi,Borgaon,2026-03-28,Flood,117.9,,,93.5,3.77,,,,,73.5,High Risk
+India,Karnataka,Udupi,Udupi,Malpe,2025-06-26,Flood,77.1,,,97.0,4.62,,,,,67.9,High Risk
+India,Karnataka,Kodagu,Virajpet,Ponnampet,2026-04-30,Landslide,118.9,,,75.5,,,,51.8,,82.5,Very High Risk
+India,Karnataka,Kalaburagi,Chittapur,Diggaon,2026-04-04,Drought,20.0,37.8,43.5,23.4,,,,,,63.7,High Risk
+India,Karnataka,Raichur,Sindhanur,Salgunda,2025-11-26,Drought,11.5,37.7,32.1,16.6,,,,,,73.2,High Risk
+India,Karnataka,Belagavi,Chikkodi,Borgaon,2026-02-17,Flood,164.9,,,93.5,6.08,,,,,98.7,Very High Risk
+India,Karnataka,Belagavi,Athani,Ugar Khurd,2026-02-02,Flood,66.7,,,87.9,6.16,,,,,72.6,High Risk
+India,Karnataka,Udupi,Udupi,Manipal,2025-09-05,Landslide,11.7,,,46.8,,,,16.5,,25.8,Low Risk
+India,Karnataka,Belagavi,Chikkodi,Borgaon,2025-06-14,Drought,82.4,33.0,64.6,45.4,,,,,,15.2,Low Risk
+India,Karnataka,Uttara Kannada,Sirsi,Banavasi,2025-11-23,Forest Fire,4.3,40.5,20.1,,,50.9,,,8.6,78.4,High Risk
+India,Karnataka,Raichur,Manvi,Kurdi,2026-05-03,Drought,21.9,37.4,21.5,12.1,,,,,,71.8,High Risk
+India,Karnataka,Udupi,Udupi,Brahmavar,2026-05-02,Landslide,9.0,,,32.4,,,,14.2,,19.2,Low Risk
+India,Karnataka,Udupi,Karkala,Miyar,2026-01-24,Landslide,43.3,,,36.5,,,,16.0,,28.6,Low Risk
+India,Karnataka,Belagavi,Chikkodi,Nipani,2026-02-12,Flood,72.6,,,84.8,5.02,,,,,66.9,High Risk
+India,Karnataka,Uttara Kannada,Kumta,Gokarna,2025-08-10,Drought,109.4,27.1,81.2,74.5,,,,,,2.1,Low Risk
+India,Karnataka,Chikkamagaluru,Chikkamagaluru,Vastare,2025-07-12,Forest Fire,1.4,38.4,29.5,,,45.9,,,5.0,64.3,High Risk
+India,Karnataka,Udupi,Udupi,Brahmavar,2026-03-23,Drought,91.2,28.4,53.1,65.5,,,,,,7.0,Low Risk
+India,Karnataka,Belagavi,Chikkodi,Borgaon,2026-01-06,Flood,161.4,,,71.1,3.92,,,,,79.7,High Risk
+India,Karnataka,Kodagu,Somwarpet,Kodlipet,2026-02-27,Landslide,98.1,,,91.2,,,,47.5,,75.4,High Risk
+India,Karnataka,Raichur,Sindhanur,Salgunda,2025-12-14,Drought,12.6,38.4,19.2,11.4,,,,,,78.2,High Risk
+India,Karnataka,Udupi,Kundapura,Basrur,2026-02-24,Cyclone,169.6,29.1,,,,81.9,991.6,,,55.9,Moderate Risk
+India,Karnataka,Chikkamagaluru,Mudigere,Balur,2025-12-24,Drought,31.5,26.0,57.4,74.4,,,,,,28.0,Low Risk
+India,Karnataka,Kalaburagi,Chittapur,Wadi,2025-12-10,Drought,21.9,38.0,19.3,21.8,,,,,,68.8,High Risk
+India,Karnataka,Kalaburagi,Afzalpur,Gobbur,2025-06-25,Flood,42.9,,,38.3,1.38,,,,,23.2,Low Risk
+India,Karnataka,Belagavi,Athani,Ugar Khurd,2025-09-14,Flood,133.0,,,78.4,4.83,,,,,82.4,Very High Risk
+India,Karnataka,Raichur,Manvi,Sirwar,2026-04-15,Landslide,32.3,,,24.8,,,,15.5,,22.1,Low Risk
+India,Karnataka,Belagavi,Chikkodi,Nipani,2026-02-10,Flood,80.9,,,77.4,3.24,,,,,55.4,Moderate Risk
+India,Karnataka,Chikkamagaluru,Koppa,Jayapura,2025-10-30,Forest Fire,7.3,35.4,27.6,,,47.7,,,6.9,64.5,High Risk
+India,Karnataka,Kodagu,Virajpet,Gonikoppal,2025-07-27,Landslide,159.3,,,91.1,,,,34.2,,77.2,High Risk
+India,Karnataka,Chikkamagaluru,Koppa,Hariharapura,2025-10-10,Flood,40.4,,,59.2,1.44,,,,,27.0,Low Risk
+India,Karnataka,Udupi,Udupi,Kaup,2025-06-21,Cyclone,144.1,29.6,,,,107.6,975.8,,,75.4,High Risk
+India,Karnataka,Kalaburagi,Aland,Nimbal,2025-06-05,Flood,51.9,,,31.0,1.73,,,,,26.9,Low Risk
+India,Karnataka,Uttara Kannada,Karwar,Arga,2025-07-18,Landslide,115.4,,,83.2,,,,33.2,,69.0,High Risk
+India,Karnataka,Chikkamagaluru,Chikkamagaluru,Avathi,2026-01-02,Forest Fire,0.9,39.8,33.3,,,48.0,,,5.2,65.4,High Risk
+India,Karnataka,Kodagu,Madikeri,Galibeedu,2026-03-19,Flood,131.2,,,80.6,3.17,,,,,70.7,High Risk
+India,Karnataka,Uttara Kannada,Karwar,Binaga,2026-02-03,Drought,103.6,25.0,51.6,51.5,,,,,,7.5,Low Risk
+India,Karnataka,Udupi,Udupi,Manipal,2026-05-09,Cyclone,145.1,30.7,,,,108.7,980.6,,,73.5,High Risk
+India,Karnataka,Uttara Kannada,Kumta,Mirjan,2025-08-16,Flood,51.1,,,59.6,1.58,,,,,31.3,Moderate Risk
+India,Karnataka,Kalaburagi,Afzalpur,Gobbur,2026-02-14,Drought,21.2,42.8,20.0,29.1,,,,,,70.8,High Risk
+India,Karnataka,Chikkamagaluru,Mudigere,Balur,2025-06-26,Flood,32.9,,,38.3,1.57,,,,,21.5,Low Risk
+India,Karnataka,Kodagu,Virajpet,Gonikoppal,2025-07-16,Forest Fire,0.9,41.7,25.3,,,41.4,,,7.6,73.6,High Risk
+India,Karnataka,Kalaburagi,Aland,Madan Hipparga,2025-07-17,Drought,19.8,43.7,42.0,24.0,,,,,,69.8,High Risk
+India,Karnataka,Belagavi,Athani,Shedbal,2025-11-22,Forest Fire,18.9,29.3,46.6,,,15.3,,,2.2,27.2,Low Risk
+India,Karnataka,Belagavi,Chikkodi,Borgaon,2026-01-18,Landslide,10.1,,,46.6,,,,6.3,,17.3,Low Risk
+India,Karnataka,Raichur,Raichur,Yapaladinni,2026-05-26,Drought,2.7,43.2,40.2,20.8,,,,,,79.6,High Risk
+India,Karnataka,Uttara Kannada,Kumta,Gokarna,2025-09-05,Cyclone,107.2,31.9,,,,71.0,990.6,,,48.7,Moderate Risk
+India,Karnataka,Kodagu,Somwarpet,Kodlipet,2025-06-24,Flood,157.3,,,86.5,5.6,,,,,94.5,Very High Risk
+India,Karnataka,Chikkamagaluru,Chikkamagaluru,Ambale,2025-08-08,Cyclone,33.1,28.9,,,,38.9,1005.0,,,17.4,Low Risk
+India,Karnataka,Uttara Kannada,Kumta,Aghanashini,2026-05-21,Drought,76.3,30.6,63.6,40.1,,,,,,17.1,Low Risk
+India,Karnataka,Belagavi,Chikkodi,Examba,2026-01-01,Flood,162.8,,,91.3,5.89,,,,,97.5,Very High Risk
+India,Karnataka,Udupi,Udupi,Kaup,2026-01-18,Landslide,41.2,,,24.8,,,,12.0,,24.4,Low Risk
+India,Karnataka,Chikkamagaluru,Koppa,Megunda,2025-11-08,Cyclone,28.5,26.4,,,,31.4,1013.4,,,6.8,Low Risk
+India,Karnataka,Belagavi,Chikkodi,Examba,2026-05-30,Drought,82.0,32.6,74.3,55.2,,,,,,9.6,Low Risk
+India,Karnataka,Udupi,Karkala,Belman,2026-02-01,Cyclone,146.8,31.0,,,,94.1,993.3,,,59.3,Moderate Risk
+India,Karnataka,Belagavi,Athani,Ugar Khurd,2025-06-07,Forest Fire,15.8,30.7,45.8,,,18.7,,,1.1,28.8,Low Risk
+India,Karnataka,Kodagu,Madikeri,Napoklu,2025-07-02,Drought,85.2,26.7,51.1,65.1,,,,,,5.8,Low Risk
+India,Karnataka,Chikkamagaluru,Chikkamagaluru,Aldur,2026-04-28,Forest Fire,6.3,39.1,20.5,,,51.4,,,6.2,71.5,High Risk
+India,Karnataka,Raichur,Manvi,Sirwar,2025-12-31,Forest Fire,22.5,34.6,74.3,,,16.8,,,0.5,23.4,Low Risk
+India,Karnataka,Udupi,Udupi,Brahmavar,2025-09-24,Flood,155.7,,,88.1,5.11,,,,,91.4,Very High Risk
+India,Karnataka,Belagavi,Gokak,Koujalgi,2025-10-29,Drought,65.9,32.9,83.7,38.0,,,,,,24.1,Low Risk
+India,Karnataka,Chikkamagaluru,Koppa,Hariharapura,2025-10-21,Forest Fire,4.7,39.0,18.0,,,33.4,,,6.3,67.5,High Risk
+India,Karnataka,Raichur,Sindhanur,Turvihal,2026-04-02,Drought,1.3,43.5,35.9,23.5,,,,,,80.4,Very High Risk
+India,Karnataka,Chikkamagaluru,Mudigere,Balur,2026-02-25,Flood,17.1,,,27.4,1.06,,,,,11.0,Low Risk
+India,Karnataka,Chikkamagaluru,Koppa,Jayapura,2025-07-18,Forest Fire,5.3,37.1,35.3,,,35.9,,,6.2,58.6,Moderate Risk
+India,Karnataka,Belagavi,Chikkodi,Borgaon,2025-07-29,Flood,130.2,,,95.3,4.15,,,,,80.2,Very High Risk
+India,Karnataka,Belagavi,Chikkodi,Sadalga,2025-12-13,Landslide,46.2,,,53.1,,,,8.8,,27.7,Low Risk
+India,Karnataka,Udupi,Kundapura,Byndoor,2026-02-19,Landslide,41.1,,,35.6,,,,3.7,,21.2,Low Risk
+India,Karnataka,Kodagu,Somwarpet,Kodlipet,2025-08-25,Landslide,172.3,,,93.6,,,,44.9,,88.4,Very High Risk
+India,Karnataka,Kodagu,Somwarpet,Kushalnagar,2025-07-24,Forest Fire,7.0,35.9,34.1,,,49.5,,,6.7,62.5,High Risk
+India,Karnataka,Kalaburagi,Sedam,Yanagundi,2025-06-20,Drought,2.2,36.4,33.1,27.5,,,,,,71.7,High Risk
+India,Karnataka,Belagavi,Gokak,Koujalgi,2025-12-16,Forest Fire,22.7,30.1,57.1,,,14.2,,,0.9,19.7,Low Risk
+India,Karnataka,Kalaburagi,Chittapur,Alura,2025-06-24,Cyclone,41.8,25.7,,,,31.0,1005.7,,,12.0,Low Risk
+India,Karnataka,Raichur,Manvi,Kurdi,2026-01-11,Drought,9.5,42.6,22.2,10.7,,,,,,83.6,Very High Risk
+India,Karnataka,Kodagu,Virajpet,Ponnampet,2025-10-30,Cyclone,30.5,31.4,,,,38.8,1006.3,,,18.1,Low Risk
+India,Karnataka,Raichur,Raichur,Yapaladinni,2026-03-11,Flood,53.1,,,26.5,1.0,,,,,21.2,Low Risk
+India,Karnataka,Belagavi,Gokak,Mamadapur,2025-11-04,Flood,82.1,,,90.3,5.24,,,,,72.4,High Risk
+India,Karnataka,Kodagu,Somwarpet,Suntikoppa,2025-08-12,Cyclone,37.6,26.4,,,,14.8,1007.0,,,8.8,Low Risk
+India,Karnataka,Kodagu,Madikeri,Galibeedu,2026-01-23,Cyclone,30.2,26.8,,,,29.3,1005.7,,,11.1,Low Risk
+India,Karnataka,Kodagu,Somwarpet,Suntikoppa,2025-08-05,Landslide,143.8,,,80.6,,,,38.0,,74.5,High Risk
+India,Karnataka,Kodagu,Somwarpet,Kodlipet,2026-04-12,Flood,129.2,,,74.3,5.07,,,,,82.1,Very High Risk
+India,Karnataka,Belagavi,Gokak,Arbhavi,2025-08-26,Forest Fire,18.9,26.0,52.4,,,19.8,,,1.8,21.8,Low Risk
+India,Karnataka,Uttara Kannada,Karwar,Majali,2026-02-01,Landslide,124.0,,,83.6,,,,38.6,,75.2,High Risk
+India,Karnataka,Kodagu,Madikeri,Galibeedu,2026-03-03,Drought,45.7,30.6,75.5,60.1,,,,,,22.8,Low Risk
+India,Karnataka,Kalaburagi,Chittapur,Alura,2025-12-25,Cyclone,1.6,26.8,,,,33.1,1006.9,,,9.6,Low Risk
+India,Karnataka,Belagavi,Athani,Ainapur,2025-12-05,Drought,61.4,32.0,80.0,58.6,,,,,,16.9,Low Risk
+India,Karnataka,Kalaburagi,Kalaburagi,Sirnoor,2025-12-21,Drought,9.1,36.1,44.0,15.3,,,,,,70.7,High Risk
+India,Karnataka,Belagavi,Chikkodi,Sadalga,2026-01-15,Drought,42.7,29.1,80.5,57.6,,,,,,23.8,Low Risk
+India,Karnataka,Kalaburagi,Kalaburagi,Sirnoor,2025-09-21,Flood,46.9,,,34.3,1.12,,,,,21.8,Low Risk
+India,Karnataka,Kodagu,Virajpet,Gonikoppal,2025-12-02,Cyclone,39.7,25.3,,,,21.6,1013.3,,,4.2,Low Risk
+India,Karnataka,Raichur,Raichur,Yapaladinni,2025-10-13,Drought,14.5,40.6,28.2,18.3,,,,,,74.7,High Risk
+India,Karnataka,Belagavi,Gokak,Ghataprabha,2025-09-23,Flood,114.2,,,94.3,3.81,,,,,72.8,High Risk
+India,Karnataka,Chikkamagaluru,Mudigere,Banakal,2026-02-12,Flood,53.5,,,33.0,1.42,,,,,25.6,Low Risk
+India,Karnataka,Chikkamagaluru,Koppa,Megunda,2025-08-20,Landslide,114.4,,,92.2,,,,33.3,,69.5,High Risk
+India,Karnataka,Udupi,Karkala,Belman,2026-02-01,Landslide,14.5,,,25.6,,,,15.5,,18.6,Low Risk
+India,Karnataka,Kalaburagi,Afzalpur,Karajagi,2025-08-08,Drought,15.7,36.3,19.5,22.6,,,,,,69.9,High Risk
+India,Karnataka,Udupi,Udupi,Brahmavar,2026-04-03,Flood,161.8,,,94.6,4.86,,,,,90.9,Very High Risk
+India,Karnataka,Raichur,Manvi,Kurdi,2026-01-16,Drought,15.2,39.8,23.9,20.6,,,,,,73.5,High Risk
+India,Karnataka,Uttara Kannada,Kumta,Mirjan,2026-04-16,Drought,82.8,26.4,62.0,64.0,,,,,,3.1,Low Risk
+India,Karnataka,Chikkamagaluru,Chikkamagaluru,Aldur,2025-08-07,Landslide,90.3,,,79.9,,,,54.1,,77.7,High Risk
+India,Karnataka,Uttara Kannada,Kumta,Mirjan,2026-01-30,Cyclone,160.2,30.2,,,,110.1,983.0,,,73.4,High Risk
+India,Karnataka,Kalaburagi,Aland,Nimbal,2026-04-05,Drought,13.5,36.0,36.3,30.6,,,,,,63.7,High Risk
+India,Karnataka,Uttara Kannada,Kumta,Aghanashini,2026-05-24,Cyclone,154.2,31.7,,,,91.5,971.9,,,73.5,High Risk
+India,Karnataka,Uttara Kannada,Sirsi,Bisalkoppa,2026-01-04,Forest Fire,1.9,35.2,26.0,,,53.3,,,6.1,66.6,High Risk
+India,Karnataka,Belagavi,Athani,Ainapur,2026-05-30,Flood,138.1,,,84.6,2.53,,,,,69.1,High Risk
+India,Karnataka,Chikkamagaluru,Koppa,Hariharapura,2026-05-19,Landslide,156.4,,,84.8,,,,33.0,,77.0,High Risk
+India,Karnataka,Belagavi,Gokak,Arbhavi,2026-03-17,Flood,98.4,,,89.1,3.52,,,,,65.0,High Risk
+India,Karnataka,Kodagu,Somwarpet,Suntikoppa,2025-08-31,Flood,98.9,,,77.1,4.55,,,,,69.9,High Risk
+India,Karnataka,Udupi,Kundapura,Shankaranarayana,2025-08-10,Forest Fire,39.9,33.7,64.8,,,15.1,,,2.6,22.6,Low Risk
+India,Karnataka,Kodagu,Madikeri,Galibeedu,2025-11-21,Flood,144.1,,,89.2,4.77,,,,,87.5,Very High Risk
+India,Karnataka,Kalaburagi,Afzalpur,Karajagi,2025-07-17,Drought,20.6,39.8,20.4,23.2,,,,,,70.5,High Risk
+India,Karnataka,Udupi,Udupi,Brahmavar,2025-12-14,Cyclone,142.5,28.7,,,,111.5,977.0,,,75.4,High Risk
+India,Karnataka,Belagavi,Chikkodi,Nipani,2026-04-24,Drought,69.5,24.1,82.6,69.0,,,,,,5.2,Low Risk
+India,Karnataka,Chikkamagaluru,Koppa,Megunda,2026-04-11,Landslide,96.1,,,75.9,,,,36.7,,63.3,High Risk
+India,Karnataka,Kodagu,Madikeri,Galibeedu,2025-11-28,Forest Fire,1.6,40.0,24.3,,,25.5,,,7.8,67.4,High Risk
+India,Karnataka,Kalaburagi,Sedam,Mudhol,2026-03-26,Cyclone,12.4,29.2,,,,20.4,1013.7,,,4.7,Low Risk
+India,Karnataka,Kodagu,Somwarpet,Suntikoppa,2025-06-03,Cyclone,4.8,25.5,,,,17.8,1008.7,,,4.3,Low Risk
+India,Karnataka,Udupi,Kundapura,Shankaranarayana,2025-10-10,Cyclone,136.0,31.2,,,,108.8,989.4,,,67.3,High Risk
+India,Karnataka,Uttara Kannada,Sirsi,Dasanakoppa,2026-01-21,Landslide,144.8,,,96.5,,,,54.1,,91.1,Very High Risk
+India,Karnataka,Udupi,Udupi,Malpe,2026-05-13,Cyclone,123.0,29.1,,,,100.1,989.0,,,61.4,High Risk
+India,Karnataka,Belagavi,Athani,Kagwad,2025-10-06,Landslide,17.9,,,34.0,,,,14.2,,21.3,Low Risk
+India,Karnataka,Belagavi,Athani,Shedbal,2025-09-20,Drought,101.5,26.4,73.9,72.9,,,,,,1.4,Low Risk
+India,Karnataka,Kodagu,Somwarpet,Suntikoppa,2025-10-02,Drought,99.8,25.9,58.7,43.1,,,,,,10.4,Low Risk
+India,Karnataka,Belagavi,Chikkodi,Examba,2025-08-01,Flood,156.6,,,88.6,5.0,,,,,90.7,Very High Risk
+India,Karnataka,Belagavi,Chikkodi,Nipani,2025-06-22,Cyclone,14.2,31.3,,,,35.4,1008.3,,,13.9,Low Risk
+India,Karnataka,Belagavi,Gokak,Arbhavi,2025-12-21,Flood,83.3,,,71.5,4.63,,,,,64.7,High Risk
+India,Karnataka,Uttara Kannada,Kumta,Aghanashini,2026-02-13,Flood,24.1,,,52.2,2.0,,,,,24.7,Low Risk
+India,Karnataka,Chikkamagaluru,Chikkamagaluru,Aldur,2025-11-09,Forest Fire,1.7,40.2,15.3,,,44.2,,,6.3,74.1,High Risk
+India,Karnataka,Belagavi,Chikkodi,Examba,2025-09-30,Flood,88.3,,,79.6,6.05,,,,,77.4,High Risk
+India,Karnataka,Kodagu,Madikeri,Bhagamandala,2026-05-25,Flood,139.0,,,81.2,3.85,,,,,77.9,High Risk
+India,Karnataka,Chikkamagaluru,Chikkamagaluru,Vastare,2025-07-22,Forest Fire,4.4,40.5,33.5,,,53.3,,,5.8,67.9,High Risk
+India,Karnataka,Kalaburagi,Kalaburagi,Sirnoor,2026-01-02,Drought,12.5,44.0,32.0,28.7,,,,,,73.9,High Risk
+India,Karnataka,Udupi,Karkala,Ajekar,2025-12-21,Flood,70.4,,,76.0,3.1,,,,,51.0,Moderate Risk
+India,Karnataka,Udupi,Udupi,Kaup,2026-01-17,Flood,138.2,,,80.1,3.46,,,,,74.7,High Risk
+India,Karnataka,Belagavi,Athani,Ugar Khurd,2025-08-02,Drought,58.1,30.1,70.2,59.2,,,,,,16.4,Low Risk
+India,Karnataka,Raichur,Raichur,Shaktinagar,2025-11-29,Landslide,19.6,,,37.9,,,,14.6,,22.9,Low Risk
+India,Karnataka,Kalaburagi,Sedam,Ribbanpally,2026-04-20,Drought,23.9,42.9,43.1,24.1,,,,,,66.7,High Risk
+India,Karnataka,Uttara Kannada,Kumta,Aghanashini,2025-07-11,Flood,13.9,,,36.1,1.12,,,,,12.2,Low Risk
+India,Karnataka,Udupi,Kundapura,Shankaranarayana,2025-10-17,Flood,153.2,,,96.3,5.39,,,,,95.0,Very High Risk
+India,Karnataka,Belagavi,Gokak,Mamadapur,2025-06-12,Flood,73.1,,,77.0,3.37,,,,,53.9,Moderate Risk
+India,Karnataka,Raichur,Sindhanur,Gorebal,2025-07-23,Drought,2.4,43.5,19.5,20.4,,,,,,84.6,Very High Risk
+India,Karnataka,Uttara Kannada,Sirsi,Banavasi,2025-07-14,Forest Fire,2.5,39.9,35.4,,,33.2,,,6.1,61.4,High Risk
+India,Karnataka,Raichur,Raichur,Shaktinagar,2025-06-15,Drought,0.9,38.9,41.3,30.1,,,,,,72.1,High Risk
+India,Karnataka,Chikkamagaluru,Chikkamagaluru,Avathi,2026-05-24,Forest Fire,3.7,38.9,28.6,,,49.7,,,8.5,72.7,High Risk
+India,Karnataka,Uttara Kannada,Kumta,Hiregutti,2026-03-04,Forest Fire,2.5,36.0,17.1,,,38.6,,,5.6,65.5,High Risk
+India,Karnataka,Kalaburagi,Chittapur,Alura,2025-11-24,Drought,6.2,41.5,26.0,16.5,,,,,,81.0,Very High Risk
+India,Karnataka,Udupi,Kundapura,Basrur,2026-01-31,Flood,91.5,,,92.3,5.33,,,,,76.2,High Risk
+India,Karnataka,Belagavi,Chikkodi,Sadalga,2025-12-09,Cyclone,19.7,26.7,,,,15.7,1012.9,,,3.6,Low Risk
+India,Karnataka,Raichur,Sindhanur,Alabanur,2025-10-13,Drought,2.0,41.0,39.6,21.4,,,,,,77.6,High Risk
+India,Karnataka,Belagavi,Chikkodi,Examba,2025-12-29,Flood,79.7,,,73.8,2.75,,,,,50.9,Moderate Risk
+India,Karnataka,Kalaburagi,Aland,Madan Hipparga,2026-05-25,Drought,15.6,37.5,19.3,10.4,,,,,,76.2,High Risk
+India,Karnataka,Belagavi,Athani,Kagwad,2025-10-23,Flood,88.3,,,90.4,5.15,,,,,73.6,High Risk
+India,Karnataka,Kodagu,Virajpet,Gonikoppal,2025-09-20,Forest Fire,6.4,37.1,22.2,,,57.9,,,6.9,71.9,High Risk
+India,Karnataka,Kalaburagi,Afzalpur,Udachan,2025-06-29,Drought,6.7,39.1,22.9,22.0,,,,,,76.7,High Risk
+India,Karnataka,Udupi,Udupi,Kaup,2026-06-01,Flood,86.1,,,82.4,5.35,,,,,72.8,High Risk
+India,Karnataka,Kalaburagi,Afzalpur,Karajagi,2026-02-22,Drought,16.7,37.7,44.0,18.6,,,,,,67.2,High Risk
+India,Karnataka,Udupi,Karkala,Hebri,2026-03-09,Flood,114.7,,,87.9,3.44,,,,,69.1,High Risk
+India,Karnataka,Kodagu,Somwarpet,Kodlipet,2025-07-28,Drought,48.9,27.9,77.8,35.6,,,,,,28.6,Low Risk
+India,Karnataka,Belagavi,Gokak,Ghataprabha,2025-06-05,Flood,161.7,,,89.3,4.65,,,,,88.4,Very High Risk
+India,Karnataka,Raichur,Sindhanur,Turvihal,2025-10-06,Drought,3.9,36.7,43.1,23.6,,,,,,70.7,High Risk
+India,Karnataka,Raichur,Raichur,Yeramarus,2026-05-26,Drought,13.4,36.9,26.6,20.7,,,,,,70.9,High Risk
+India,Karnataka,Belagavi,Athani,Ugar Khurd,2025-09-07,Forest Fire,39.0,26.2,56.3,,,12.0,,,0.6,11.0,Low Risk
+India,Karnataka,Raichur,Sindhanur,Alabanur,2025-09-06,Drought,14.2,40.3,30.6,17.1,,,,,,74.5,High Risk
+India,Karnataka,Belagavi,Chikkodi,Sadalga,2026-01-17,Flood,91.0,,,80.3,3.47,,,,,60.7,High Risk
+India,Karnataka,Kalaburagi,Chittapur,Diggaon,2026-04-14,Flood,52.1,,,33.4,1.89,,,,,28.5,Low Risk
+India,Karnataka,Kalaburagi,Sedam,Ribbanpally,2026-03-10,Drought,3.9,38.3,26.7,19.0,,,,,,77.7,High Risk
+India,Karnataka,Kalaburagi,Aland,Nimbal,2025-08-31,Drought,21.8,37.6,20.7,20.7,,,,,,68.6,High Risk
+India,Karnataka,Belagavi,Gokak,Mamadapur,2026-04-16,Cyclone,16.5,29.2,,,,31.0,1007.3,,,11.4,Low Risk
+India,Karnataka,Kalaburagi,Sedam,Kodla,2026-05-02,Drought,12.3,43.1,39.6,11.8,,,,,,78.5,High Risk
+India,Karnataka,Kalaburagi,Afzalpur,Udachan,2025-12-06,Drought,19.9,36.5,32.3,23.6,,,,,,64.8,High Risk
+India,Karnataka,Kalaburagi,Sedam,Mudhol,2026-02-21,Drought,2.4,41.8,23.1,21.7,,,,,,81.6,Very High Risk
+India,Karnataka,Chikkamagaluru,Koppa,Jayapura,2026-03-13,Landslide,151.2,,,85.0,,,,33.0,,77.6,High Risk
+India,Karnataka,Uttara Kannada,Karwar,Arga,2025-07-24,Forest Fire,3.2,35.5,19.1,,,36.1,,,5.6,63.1,High Risk
+India,Karnataka,Belagavi,Chikkodi,Borgaon,2026-03-09,Landslide,49.6,,,31.4,,,,8.6,,24.7,Low Risk
+India,Karnataka,Uttara Kannada,Kumta,Hiregutti,2025-12-10,Cyclone,110.3,32.8,,,,103.3,992.8,,,61.8,High Risk
+India,Karnataka,Chikkamagaluru,Chikkamagaluru,Ambale,2025-10-24,Forest Fire,7.9,39.4,26.9,,,35.0,,,6.2,63.6,High Risk
+India,Karnataka,Kodagu,Virajpet,Ponnampet,2026-05-20,Flood,146.3,,,84.3,5.9,,,,,95.0,Very High Risk
+India,Karnataka,Belagavi,Gokak,Koujalgi,2025-11-30,Flood,76.4,,,94.9,3.48,,,,,59.3,Moderate Risk
+India,Karnataka,Kodagu,Virajpet,Ponnampet,2025-07-18,Forest Fire,1.7,39.1,28.1,,,27.5,,,6.3,62.5,High Risk
+India,Karnataka,Chikkamagaluru,Mudigere,Kalasa,2026-04-01,Landslide,141.0,,,75.9,,,,52.6,,84.5,Very High Risk
+India,Karnataka,Kalaburagi,Afzalpur,Udachan,2025-12-31,Drought,23.3,37.0,38.2,26.9,,,,,,61.0,High Risk
+India,Karnataka,Belagavi,Chikkodi,Nipani,2025-06-28,Flood,92.0,,,85.1,2.65,,,,,56.2,Moderate Risk
+India,Karnataka,Kalaburagi,Kalaburagi,Farhatabad,2025-08-18,Drought,1.3,41.9,30.0,18.6,,,,,,82.1,Very High Risk
+India,Karnataka,Belagavi,Chikkodi,Nipani,2025-12-19,Flood,75.5,,,83.3,3.74,,,,,58.5,Moderate Risk
+India,Karnataka,Kalaburagi,Afzalpur,Tellur,2026-02-12,Drought,10.9,41.6,31.0,26.8,,,,,,73.3,High Risk
+India,Karnataka,Kodagu,Somwarpet,Suntikoppa,2026-03-15,Landslide,138.5,,,92.7,,,,36.9,,75.2,High Risk
+India,Karnataka,Uttara Kannada,Kumta,Hiregutti,2025-07-16,Cyclone,119.2,28.1,,,,70.6,977.4,,,55.6,Moderate Risk
+India,Karnataka,Uttara Kannada,Karwar,Binaga,2025-11-27,Drought,79.3,32.9,55.1,52.7,,,,,,14.5,Low Risk
+India,Karnataka,Kalaburagi,Afzalpur,Karajagi,2025-08-19,Drought,18.9,42.8,19.5,12.5,,,,,,79.0,High Risk
+India,Karnataka,Belagavi,Chikkodi,Sadalga,2025-06-08,Landslide,20.4,,,48.1,,,,7.6,,20.8,Low Risk
+India,Karnataka,Udupi,Karkala,Hebri,2025-09-13,Drought,73.7,30.8,71.8,57.0,,,,,,10.2,Low Risk
+India,Karnataka,Kalaburagi,Kalaburagi,Kusnoor,2025-10-09,Drought,4.3,38.3,34.7,27.4,,,,,,72.3,High Risk
+India,Karnataka,Kalaburagi,Afzalpur,Tellur,2025-07-05,Flood,26.4,,,54.8,1.18,,,,,20.1,Low Risk
+India,Karnataka,Raichur,Manvi,Kurdi,2025-10-28,Flood,52.7,,,33.1,1.71,,,,,27.4,Low Risk
+India,Karnataka,Uttara Kannada,Sirsi,Banavasi,2026-04-02,Forest Fire,4.0,38.8,19.3,,,40.1,,,8.7,73.8,High Risk
+India,Karnataka,Kalaburagi,Chittapur,Alura,2025-11-18,Forest Fire,10.7,30.4,67.3,,,18.9,,,1.6,25.1,Low Risk
+India,Karnataka,Udupi,Kundapura,Gangolli,2025-10-20,Cyclone,160.3,32.3,,,,105.6,983.8,,,72.5,High Risk
+India,Karnataka,Kalaburagi,Chittapur,Ravoor,2025-12-19,Forest Fire,25.3,31.9,47.6,,,23.4,,,2.3,30.5,Moderate Risk
+India,Karnataka,Raichur,Raichur,Shaktinagar,2026-01-05,Drought,24.3,43.3,32.6,17.2,,,,,,72.0,High Risk
+India,Karnataka,Kodagu,Somwarpet,Kushalnagar,2025-08-10,Landslide,109.4,,,91.9,,,,44.7,,75.0,High Risk
+India,Karnataka,Kalaburagi,Kalaburagi,Nandikur,2025-09-03,Drought,7.9,43.0,38.7,26.0,,,,,,74.9,High Risk
+India,Karnataka,Uttara Kannada,Kumta,Aghanashini,2025-08-17,Flood,47.9,,,31.5,0.95,,,,,20.7,Low Risk
+India,Karnataka,Belagavi,Chikkodi,Examba,2026-04-02,Flood,84.4,,,80.1,5.04,,,,,69.6,High Risk
+India,Karnataka,Raichur,Sindhanur,Alabanur,2026-05-31,Drought,16.2,37.5,30.8,18.5,,,,,,70.1,High Risk
+India,Karnataka,Kodagu,Madikeri,Sampaje,2025-06-08,Flood,157.2,,,76.2,6.02,,,,,95.2,Very High Risk
+India,Karnataka,Raichur,Manvi,Pothnal,2025-08-30,Flood,56.0,,,55.3,2.18,,,,,36.1,Moderate Risk
+India,Karnataka,Chikkamagaluru,Mudigere,Balur,2026-01-05,Drought,62.4,24.4,63.3,64.4,,,,,,10.2,Low Risk
+India,Karnataka,Udupi,Karkala,Ajekar,2026-02-22,Flood,71.5,,,94.6,4.19,,,,,62.7,High Risk
+India,Karnataka,Kodagu,Virajpet,Balele,2026-03-13,Flood,100.7,,,97.0,5.33,,,,,79.9,High Risk
+India,Karnataka,Kodagu,Somwarpet,Kodlipet,2025-10-25,Flood,108.4,,,87.2,4.06,,,,,71.4,High Risk
+India,Karnataka,Kalaburagi,Afzalpur,Karajagi,2025-07-17,Drought,18.1,36.9,43.3,27.1,,,,,,62.3,High Risk
+India,Karnataka,Raichur,Sindhanur,Turvihal,2026-01-17,Drought,0.6,39.6,42.2,29.7,,,,,,72.9,High Risk
+India,Karnataka,Chikkamagaluru,Chikkamagaluru,Aldur,2025-08-03,Forest Fire,5.1,34.8,31.2,,,27.8,,,7.8,58.6,Moderate Risk
+India,Karnataka,Chikkamagaluru,Koppa,Jayapura,2025-06-23,Forest Fire,4.5,40.9,36.0,,,46.8,,,5.6,64.9,High Risk
+India,Karnataka,Kalaburagi,Kalaburagi,Nandikur,2026-01-01,Flood,21.9,,,58.6,1.82,,,,,24.0,Low Risk
+India,Karnataka,Udupi,Kundapura,Gangolli,2025-09-12,Cyclone,91.0,30.0,,,,65.2,988.0,,,45.3,Moderate Risk
+India,Karnataka,Chikkamagaluru,Mudigere,Kottigehara,2025-09-30,Flood,16.9,,,40.9,1.72,,,,,18.3,Low Risk
+India,Karnataka,Chikkamagaluru,Chikkamagaluru,Aldur,2025-10-04,Forest Fire,5.0,41.9,21.4,,,52.1,,,5.8,73.9,High Risk
+India,Karnataka,Kodagu,Madikeri,Sampaje,2025-06-19,Flood,75.3,,,86.2,2.62,,,,,51.2,Moderate Risk
+India,Karnataka,Belagavi,Chikkodi,Examba,2025-06-26,Flood,71.4,,,74.5,6.18,,,,,71.3,High Risk
+India,Karnataka,Udupi,Kundapura,Gangolli,2025-12-02,Cyclone,113.9,29.2,,,,111.6,967.8,,,79.5,High Risk
+India,Karnataka,Uttara Kannada,Sirsi,Banavasi,2025-07-04,Cyclone,145.6,28.6,,,,79.6,969.0,,,67.5,High Risk
+India,Karnataka,Chikkamagaluru,Koppa,Bhandigadi,2026-04-10,Landslide,85.5,,,88.7,,,,57.4,,79.3,High Risk
+India,Karnataka,Kalaburagi,Sedam,Ribbanpally,2026-05-28,Cyclone,14.2,28.7,,,,18.6,1010.5,,,6.2,Low Risk
+India,Karnataka,Belagavi,Chikkodi,Examba,2026-03-16,Cyclone,22.4,30.7,,,,24.9,1011.6,,,7.6,Low Risk
+India,Karnataka,Belagavi,Chikkodi,Sadalga,2025-06-01,Drought,39.5,28.2,75.8,66.9,,,,,,23.5,Low Risk
+India,Karnataka,Kodagu,Somwarpet,Suntikoppa,2025-11-27,Flood,118.8,,,70.3,4.86,,,,,76.7,High Risk
+India,Karnataka,Kodagu,Somwarpet,Kodlipet,2025-11-05,Landslide,108.5,,,88.2,,,,51.5,,78.3,High Risk
+India,Karnataka,Udupi,Karkala,Miyar,2025-08-29,Flood,80.4,,,95.8,5.59,,,,,75.4,High Risk
+India,Karnataka,Chikkamagaluru,Mudigere,Banakal,2026-02-02,Drought,42.4,28.1,81.4,69.6,,,,,,21.9,Low Risk
+India,Karnataka,Chikkamagaluru,Chikkamagaluru,Ambale,2026-02-22,Flood,21.5,,,36.0,1.81,,,,,19.3,Low Risk
+India,Karnataka,Belagavi,Athani,Kagwad,2025-11-29,Drought,35.3,25.3,61.9,68.6,,,,,,24.4,Low Risk
+India,Karnataka,Uttara Kannada,Sirsi,Hulekal,2025-09-04,Landslide,136.5,,,95.8,,,,51.0,,88.9,Very High Risk
+India,Karnataka,Udupi,Karkala,Belman,2026-02-10,Flood,152.1,,,93.2,3.87,,,,,83.7,Very High Risk
+India,Karnataka,Udupi,Kundapura,Gangolli,2025-07-28,Cyclone,106.2,27.6,,,,83.7,966.1,,,67.1,High Risk
+India,Karnataka,Chikkamagaluru,Koppa,Hariharapura,2025-08-18,Cyclone,33.0,28.7,,,,15.7,1013.3,,,6.1,Low Risk
+India,Karnataka,Udupi,Karkala,Hebri,2026-02-20,Flood,131.1,,,90.3,2.99,,,,,71.3,High Risk
+India,Karnataka,Chikkamagaluru,Chikkamagaluru,Ambale,2025-07-30,Cyclone,30.9,29.2,,,,10.1,1013.4,,,6.3,Low Risk
+India,Karnataka,Kalaburagi,Sedam,Mudhol,2025-07-23,Drought,13.0,41.3,33.6,16.9,,,,,,75.6,High Risk
+India,Karnataka,Udupi,Kundapura,Gangolli,2025-10-25,Cyclone,125.3,27.7,,,,78.8,974.6,,,61.1,High Risk
+India,Karnataka,Kalaburagi,Kalaburagi,Nandikur,2026-04-15,Drought,14.0,36.8,32.8,21.9,,,,,,68.6,High Risk
+India,Karnataka,Udupi,Udupi,Brahmavar,2026-03-21,Landslide,16.0,,,22.5,,,,12.2,,17.2,Low Risk
+India,Karnataka,Chikkamagaluru,Chikkamagaluru,Aldur,2026-05-12,Landslide,84.8,,,84.2,,,,32.4,,62.8,High Risk
+India,Karnataka,Raichur,Sindhanur,Alabanur,2025-11-18,Drought,20.4,41.7,32.4,24.8,,,,,,69.2,High Risk
+India,Karnataka,Chikkamagaluru,Chikkamagaluru,Vastare,2025-07-20,Landslide,123.3,,,91.4,,,,49.9,,83.2,Very High Risk
+India,Karnataka,Kodagu,Virajpet,Ponnampet,2025-12-04,Forest Fire,5.3,37.5,31.1,,,51.0,,,8.5,70.1,High Risk
+India,Karnataka,Chikkamagaluru,Chikkamagaluru,Ambale,2025-07-28,Landslide,113.4,,,86.1,,,,34.8,,72.8,High Risk
+India,Karnataka,Belagavi,Chikkodi,Sadalga,2026-06-01,Flood,143.7,,,88.2,3.71,,,,,79.7,High Risk
+India,Karnataka,Udupi,Kundapura,Basrur,2025-10-01,Flood,125.2,,,97.3,4.53,,,,,81.7,Very High Risk
+India,Karnataka,Uttara Kannada,Sirsi,Banavasi,2026-01-09,Landslide,133.9,,,83.2,,,,49.4,,81.1,Very High Risk
+India,Karnataka,Raichur,Manvi,Sirwar,2026-02-05,Cyclone,14.6,25.7,,,,13.4,1010.4,,,4.1,Low Risk
+India,Karnataka,Chikkamagaluru,Chikkamagaluru,Vastare,2025-07-06,Landslide,136.8,,,91.5,,,,46.7,,86.3,Very High Risk
+India,Karnataka,Udupi,Karkala,Ajekar,2025-07-17,Flood,82.8,,,86.3,3.01,,,,,56.2,Moderate Risk
+India,Karnataka,Raichur,Raichur,Yeramarus,2026-01-18,Drought,13.3,39.1,23.3,22.7,,,,,,73.0,High Risk
+India,Karnataka,Raichur,Manvi,Kurdi,2026-01-09,Drought,17.9,43.3,33.7,31.8,,,,,,68.9,High Risk
+India,Karnataka,Belagavi,Chikkodi,Borgaon,2025-07-02,Landslide,21.6,,,39.2,,,,3.8,,17.8,Low Risk
+India,Karnataka,Uttara Kannada,Karwar,Binaga,2025-09-29,Flood,28.7,,,46.9,1.63,,,,,22.4,Low Risk
+India,Karnataka,Raichur,Sindhanur,Alabanur,2026-03-07,Drought,5.3,37.4,33.0,13.1,,,,,,77.2,High Risk
+India,Karnataka,Uttara Kannada,Karwar,Arga,2025-08-08,Cyclone,101.5,32.3,,,,65.6,984.5,,,50.3,Moderate Risk
+India,Karnataka,Raichur,Manvi,Harvi,2025-07-14,Drought,3.4,42.4,42.1,28.9,,,,,,74.6,High Risk
+India,Karnataka,Raichur,Sindhanur,Alabanur,2026-02-16,Drought,10.6,42.6,24.1,18.5,,,,,,79.4,High Risk
+India,Karnataka,Uttara Kannada,Kumta,Gokarna,2026-05-31,Cyclone,133.7,29.2,,,,90.1,977.3,,,65.8,High Risk
+India,Karnataka,Kalaburagi,Afzalpur,Tellur,2026-03-25,Flood,31.5,,,30.0,1.77,,,,,20.8,Low Risk
+India,Karnataka,Chikkamagaluru,Koppa,Megunda,2026-02-23,Landslide,164.5,,,77.1,,,,43.2,,84.9,Very High Risk
+India,Karnataka,Raichur,Manvi,Sirwar,2026-03-24,Cyclone,15.5,30.4,,,,19.4,1005.5,,,10.8,Low Risk
+India,Karnataka,Chikkamagaluru,Mudigere,Banakal,2026-03-21,Flood,45.4,,,58.6,1.39,,,,,28.1,Low Risk
